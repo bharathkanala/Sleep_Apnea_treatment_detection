@@ -1,0 +1,715 @@
+BMI,AHI,sAHI,mean_o2 [%],O2_sats_below_90 [%],lowest_O2(SS) [%],apnoea,hypopnoea,RSI,NOSE,Snoring_mouth_closed,Snoring_chin_lift,AirwaySize_mouth_closed,AirwaySize_chin_lift,tonsils,uvula,rhinitis,DNS,velopharyngeal_collapse [%],oropharyngeal_collapse [%],base_of_tongue_collapse [%],collar_size [cm],STOP_BANG,ESS,snore_time,Flow,P,T,L,Tb,E,treatment_plan_with_stages,parsed_plan_raw,parsed_plan,predicted_treatment_plan
+25.0,25.8,51.0,91.4,17.5,72.0,14.44804387378361,9.640803248755784,13.0,1.0,2,1.0,2.0,3.0,0,Long broad,red wet,Left moderate,75.0,50.0,0.0,43.0,4.0,10.0,39,0.3800349249962139,1,0,0,0,0,"1.[continue Rhinitis Rx][Sleep Position Modifier][Allergy Testing] +/- MAD trial
+2.[RF Palate][Procut Palatoplasty] [RF turbinates + outfracture] [+rpt sleep study]
+3.[Barbed Suture] +/- [Septoplasty] after repeat DISE","{1: ['continue Rhinitis Rx', 'Sleep Position Modifier', 'Allergy Testing'], 2: ['RF Palate', 'Procut Palatoplasty', 'RF turbinates + outfracture', '+rpt sleep study'], 3: ['Barbed Suture', 'Septoplasty']}","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Allergy Testing'], 2: ['RF Palate', 'Procut Palatoplasty', 'RF turbinates + outfracture', '+rpt sleep study'], 3: ['Barbed Suture', 'Septoplasty']}","1. [Allergy Testing] [Rhinitis Rx] [Sleep Position Modifier]
+2. [+rpt sleep study] [Procut Palatoplasty] [RF Palate] [RF turbinates + outfracture]
+3. [Barbed Suture] [Septoplasty]"
+28.6,36.0,87.0,95.0,10.0,70.0,18.24261690633009,4,5.0,3.0,2,2.0,2.0,2.0,1,3,1,0,75.0,50.0,0.0,43.0,5.0,10.0,0.6875748807704847,0.3126678135401144,1,0,1,1,0,"1.[Weight Loss]
+2.[Procut Palatoplasty (anterior / inferior)][Barbed Suture]
+3.repeat DISE before any further intervention – look at patients previous DISE","{1: ['Weight Loss'], 2: ['Procut Palatoplasty (anterior / inferior)', 'Barbed Suture'], 3: []}","{1: ['Weight Loss'], 2: ['Procut Palatoplasty', 'Barbed Suture'], 3: []}","1. [Weight Loss]
+2. [Barbed Suture] [Chinstrap] [Procut Palatoplasty] [Sleep Position Modifier]
+3. [RF turbinates + outfracture]"
+24.0,29.0,29.0,94.0,2.0,83.0,16.48489740676696,3,6.0,13.0,2,2.0,2.0,2.0,1,2,2,Lmax crest Plus. Pus LOMC,75.0,50.0,0.0,43.0,3.0,10.0,0.624196652784825,0.3752902858905506,0,0,0,1,0,"1.Augmentin for pus L OMC [? weight loss][Rhinitis Rx][Myofunct. Therapy][airgym app]
+2.[Chinstrap][Mandibular Advancement Device – if tolerated][? Sleep Position Modifier]
+3.[Procut Palatoplasty (anterior / inferior) +/- barbed suture] [RF turbinates + outfracture] ","{1: ['? weight loss', 'Rhinitis Rx', 'Myofunct. Therapy', 'airgym app'], 2: ['Chinstrap', 'Mandibular Advancement Device – if tolerated', '? Sleep Position Modifier'], 3: ['Procut Palatoplasty (anterior / inferior) +/- barbed suture', 'RF turbinates + outfracture']}","{1: ['? weight loss', 'Rhinitis Rx', 'Myofunct. Therapy', 'airgym app'], 2: ['Chinstrap', 'Mandibular Advancement Device', '? Sleep Position Modifier'], 3: ['Procut Palatoplasty (anterior / inferior) +/- barbed suture', 'RF turbinates + outfracture']}","1. [Myofunct. Therapy] [Rhinitis Rx]
+2. [Chinstrap] [Mandibular Advancement Device]
+3. [RF turbinates + outfracture]"
+28.5,21.6,40.2,92.8,8.3,78.0,18.32808823335172,12.17310496015483,7.0,8.0,0,0.0,2.0,2.0,1,s,mild,ant premax large crest High left DNS mild columella disloc to right.,75.0,0.0,0.0,43.0,2.0,3.0,62,0.3019834373346149,1,0,0,2,0,"1.[Rhinitis Rx][Sleep Position Modifier][Allergy Testing][chinstrap]
+2.[RF + out fracture turbinates][Septoplasty]?[Septorhinoplasty – narrow nasal aperture]","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Allergy Testing', 'chinstrap'], 2: ['RF + out fracture turbinates', 'Septoplasty', 'Septorhinoplasty – narrow nasal aperture']}","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Allergy Testing', 'chinstrap'], 2: ['RF + out fracture turbinates', 'Septoplasty', 'Septorhinoplasty – narrow nasal aperture']}","1. [Allergy Testing] [Rhinitis Rx] [Sleep Position Modifier]
+2. [Mandibular Advancement Device] [Septoplasty]"
+30.0,24.0,28.0,93.0,10.0,81.0,16.30274523988621,22,6.0,0.0,1,2.0,1.0,2.0,2,2,2,bilat max crest spurs R 2Plus,75.0,50.0,0.0,47.0,5.0,10.0,0.6850099964262131,0.3153721793165686,2,0,0,2,0,"1.[Weight Loss] – reduce work on neck at GYM – 47cm!
+2.[Mandibular Advancement Device] +/- [Chinstrap][Sleep Position Modifier]
+3.[Lingual Tonsil Reduction - coblation] ","{1: ['Weight Loss'], 2: ['Mandibular Advancement Device', 'Chinstrap', 'Sleep Position Modifier'], 3: ['Lingual Tonsil Reduction - coblation']}","{1: ['Weight Loss'], 2: ['Mandibular Advancement Device', 'Chinstrap', 'Sleep Position Modifier'], 3: ['Lingual Tonsil Reduction']}","1. [Weight Loss]
+2. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Lingual Tonsil Reduction]"
+33.0,38.0,38.0,95.0,10.5,90.0,17.389829325328513,11.791857616231914,7.0,8.0,2,3.0,2.0,2.0,2,3,red 2,R,75.0,50.0,0.0,43.0,6.0,9.0,22,0.348210092086996,1,0,2,2,1,"1.[Weight Loss][Rhinitis Rx][Sleep Q]
+2.[Chinstrap]  +/-  [Mandibular Advancement Device][Sleep Position Modifier]
+3.Confirmed weight loss then
+[DISE] +/- [Tonsillectomy] +/- [Barbed Suture][Procut Palatoplasty (anterior / inferior)] ","{1: ['Weight Loss', 'Rhinitis Rx', 'Sleep Q'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['DISE', 'Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty (anterior / inferior)']}","{1: ['Weight Loss', 'Rhinitis Rx', 'Sleep Q'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['DISE', 'Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty']}","1. [Rhinitis Rx] [Weight Loss]
+2. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]
+4. [Hypoglossal N. Stim]"
+28.0,18.0,47.0,92.0,8.0,82.0,15.258030536031889,10.06152707433954,17.0,14.0,2,2.5,2.5,2.5,2,broad,2,right spur / left gen dev,75.0,50.0,0.0,43.0,5.0,12.0,38,0.3440769671900371,2,0,1,1,0,"1.[Weight Loss][Rhinitis Rx]
+2.[RF turbinates][Septoplasty][Procut Palatoplasty][Barbed Suture]","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['RF turbinates', 'Septoplasty', 'Procut Palatoplasty', 'Barbed Suture']}","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['RF turbinates', 'Septoplasty', 'Procut Palatoplasty', 'Barbed Suture']}","1. [Rhinitis Rx] [Weight Loss]
+2. [Barbed Suture] [Procut Palatoplasty] [RF turbinates] [Septoplasty]"
+26.0,2.9,4.5,94.0,10.5,86.0,15.152638015567426,10.450032968887685,13.0,12.0,1,1.0,2.0,2.5,2,l,red wet,R2PlusPlus,75.0,0.0,0.0,43.0,4.0,9.0,29,0.3575615295314315,1,0,0,2,0,"1.[Rhinitis Rx]
+2.[MAD]","{1: ['Rhinitis Rx'], 2: ['MAD']}","{1: ['Rhinitis Rx'], 2: ['Mandibular Advancement Device']}","1. [Rhinitis Rx] [Sleep Position Modifier]
+2. [Mandibular Advancement Device]"
+31.0,41.0,55.0,93.0,9.0,85.0,17.47405060333582,11.450379402738356,7.0,8.0,3,3.0,2.0,3.0,0,oedema,1,Left Plus spur,75.0,50.0,0.0,43.0,5.0,2.0,56,0.3133550438043748,1,0,0,2,0,"1.[Weight Loss][Rhinitis Rx]
+2.[Sleep Position Modifier] [Chinstrap][MAD
+3.[RF BOT][Barbed Suture]
+4.[TORS][Hypoglossal N. Stimulator]","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Sleep Position Modifier', 'Chinstrap'], 3: ['RF BOT', 'Barbed Suture'], 4: ['TORS', 'Hypoglossal N. Stimulator']}","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Sleep Position Modifier', 'Chinstrap'], 3: ['RF BOT', 'Barbed Suture'], 4: ['TORS', 'Hypoglossal N. Stim']}","1. [Rhinitis Rx] [Weight Loss]
+2. [Chinstrap] [Sleep Position Modifier]
+3. [Barbed Suture] [RF BOT]
+4. [Hypoglossal N. Stim]"
+30.0,36.0,54.0,92.0,11.0,79.0,14.7865028421248,9.684611702057824,7.0,11.0,3,1.5,2.0,2.5,1,l,1,0,75.0,50.0,0.0,43.0,5.0,13.0,0.6707851616761816,0.3292606937887679,2,2,0,0,0,"1.[Weight Loss][Mandibular advancement device][Sleep Position Modifier eg Zzoma]
+2.[Tonsillectomy][Procut Palatoplasty] [Barbed Suture]","{1: ['Weight Loss', 'Mandibular advancement device', 'Sleep Position Modifier eg Zzoma'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'Barbed Suture']}","{1: ['Weight Loss', 'Mandibular Advancement Device', 'Sleep Position Modifier eg Zzoma'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'Barbed Suture']}","1. [Rhinitis Rx] [Weight Loss]
+2. [Tonsillectomy]"
+26.0,34.0,67.0,93.0,8.0,81.0,15.037619283640783,2,0.0,0.0,2,1.0,2.0,3.0,2,2,red wet (?URTI),R2Plus/ L4PlusPlus,75.0,50.0,0.0,43.0,4.0,10.0,0.636037265427416,0.3642370007735452,2,0,1 (L2 with mouth closed),1,0,"1.[Rhinitis Rx]
+2.[Mandibular Advancement Device][Chinstrap][Sleep Position Modifier]
+3.[Septoplasty]+[collumelloplasty] [RF turbinates + outfracture] depending on NIPF in OPD with provocative decongestant testing
+4.[Procut Palatoplasty (anterior / inferior)]
+5.[Barbed Suture][Tonsillectomy] ","{1: ['Rhinitis Rx'], 2: ['Mandibular Advancement Device', 'Chinstrap', 'Sleep Position Modifier'], 3: ['Septoplasty', 'collumelloplasty', 'RF turbinates + outfracture'], 4: ['Procut Palatoplasty (anterior / inferior)'], 5: ['Barbed Suture', 'Tonsillectomy']}","{1: ['Rhinitis Rx'], 2: ['Mandibular Advancement Device', 'Chinstrap', 'Sleep Position Modifier'], 3: ['Septoplasty', 'collumelloplasty', 'RF turbinates + outfracture'], 4: ['Procut Palatoplasty'], 5: ['Barbed Suture', 'Tonsillectomy']}","1. [Rhinitis Rx]
+2. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [RF turbinates + outfracture] [Septoplasty]
+4. [Procut Palatoplasty]"
+29.0,24.2,32.0,94.0,3.5,75.0,18.36232811442864,11.962343444345738,12.0,4.0,1,0.5,2.0,2.0,1,m,mild wet,0,75.0,50.0,0.0,43.0,4.0,10.0,61,0.3118880327292238,2,1,1,2,0,"1.[Rhinitis Rx][PPI Trial][Sleep Hygiene][Myofunct. Therapy]
+2.[Chinstrap][MAD][Allergy Testing +  food]
+3.[RF Palate][Procut Palatoplasty][RF turbinates]
+4.[Tonsillectomy][Barbed Suture]","{1: ['Rhinitis Rx', 'PPI Trial', 'Sleep Hygiene', 'Myofunct. Therapy'], 2: ['Chinstrap', 'MAD', 'Allergy Testing +  food'], 3: ['RF Palate', 'Procut Palatoplasty', 'RF turbinates'], 4: ['Tonsillectomy', 'Barbed Suture']}","{1: ['Rhinitis Rx', 'PPI Trial', 'Sleep Hygiene', 'Myofunct. Therapy'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Allergy Testing + food'], 3: ['RF Palate', 'Procut Palatoplasty', 'RF turbinates'], 4: ['Tonsillectomy', 'Barbed Suture']}","1. [Myofunct. Therapy] [PPI Trial] [Rhinitis Rx] [Sleep Hygiene]
+2. [Chinstrap] [Mandibular Advancement Device]
+3. [Procut Palatoplasty] [RF turbinates]
+4. [Barbed Suture] [Tonsillectomy]"
+23.0,36.0,46.0,92.5,81.0,73.5,15.728696077495066,12,6.0,2.0,1,0.0,2.0,2.0,1,4,3 cobblestone,mild bilat DNS,75.0,50.0,0.0,43.0,5.0,10.0,0.659991230486085,0.3417863044960094,1,0,0,2,1,"1.[Rhinitis Rx – otrivine drops (2) + spray] + Saline douching after work and mornings
+2.[Allergy Testing] + NIPF testing in OPD
+3.[Chinstrap] +/-  [Mandibular Advancement Device] [Sleep Position Modifier]
+4.[Procut Palatoplasty (anterior / inferior)] +/- - [Barbed Suture]","{1: ['Rhinitis Rx – otrivine drops (2) + spray'], 2: ['Allergy Testing'], 3: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 4: ['Procut Palatoplasty (anterior / inferior)', 'Barbed Suture']}","{1: ['Rhinitis Rx – otrivine drops (2) + spray'], 2: ['Allergy Testing'], 3: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 4: ['Procut Palatoplasty', 'Barbed Suture']}","1. [Allergy Testing] [Chinstrap] [Mandibular Advancement Device]
+2. [Weight Loss]
+3. [Hypoglossal N. Stim] [RF BOT] [RF turbinates + outfracture] [Septoplasty]"
+30.5,65.5,99.8,92.0,17.5,73.0,15.75840603575386,10.229821749575782,1.0,11.0,2,1.0,2.0,3.0,1,s,0,Left spur – childhood,75.0,50.0,0.0,43.0,5.0,10.0,45,0.3286237720060496,1,1,1,0,0,"1.[Weight Loss]
+2.[MAD][Sleep Position Modifier]
+3.MDT ? wedge epiglottis ? epiglottopexy","{1: ['Weight Loss'], 2: ['MAD', 'Sleep Position Modifier'], 3: []}","{1: ['Weight Loss'], 2: ['Mandibular Advancement Device', 'Sleep Position Modifier'], 3: []}","1. [Weight Loss]
+2. [Mandibular Advancement Device] [Sleep Position Modifier]"
+33.0,59.0,56.0,92.8,10.5,73.5,16.04692871131177,10.743115956533263,7.0,8.0,1,1.0,2.0,2.0,2,l,1,right spur - sharp,50.0,50.0,0.0,43.0,5.0,15.0,0.6598697599172703,0.3428176399572115,1,1,1,0,0,"1.[Weight Loss][Rhinitis Rx][Allergy Testing][+rpt sleep study]
+2.[RF turbinates][Septoplasty] ","{1: ['Weight Loss', 'Rhinitis Rx', 'Allergy Testing', '+rpt sleep study'], 2: ['RF turbinates', 'Septoplasty']}","{1: ['Weight Loss', 'Rhinitis Rx', 'Allergy Testing', '+rpt sleep study'], 2: ['RF turbinates', 'Septoplasty']}","1. [+rpt sleep study] [Allergy Testing] [Rhinitis Rx] [Weight Loss]
+2. [RF turbinates] [Septoplasty]"
+24.0,27.1,45.0,92.0,36.0,83.0,17.153673299983964,11.550680002380751,32.0,8.0,0,1.0,1.0,1.5,0,2,mild,R2Plus spur. R4Plusspur,75.0,50.0,0.0,43.0,5.0,10.0,185.5,0.3739295929243325,0,0,0,2,0,1.[Chinstrap][Mandibular Advancement Device][Sleep Position Modifier],"{1: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier']}","{1: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier']}","1. [Allergy Testing] [Mandibular Advancement Device]
+2. [+rpt sleep study] [Septoplasty]
+3. [Lingual Tonsil Reduction] [RF BOT]"
+32.0,53.0,57.0,91.0,23.0,68.0,14.126182148566476,0,0.0,8.0,2,2.0,2.0,2.0,1,2,"boggy, wet",L2PlusPlus nasal valve R spur L4+,75.0,50.0,0.0,43.0,6.0,10.0,0.6339491459244695,0.3676414243392349,2,0,1,1,0,"1.[Weight Loss][Rhinitis Rx] Drops and spray
+2.[Mandibular Advancement Device]
+3.[Septoplasty][RF turbinates + outfracture]
+4.? [MDT] ? [Lingual Tonsil Reduction - coblation] ? [Hypoglossal N. Stim]","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Mandibular Advancement Device'], 3: ['Septoplasty', 'RF turbinates + outfracture'], 4: ['MDT', 'Lingual Tonsil Reduction - coblation', 'Hypoglossal N. Stim']}","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Mandibular Advancement Device'], 3: ['Septoplasty', 'RF turbinates + outfracture'], 4: ['MDT', 'Lingual Tonsil Reduction', 'Hypoglossal N. Stim']}","1. [Rhinitis Rx] [Weight Loss]
+2. [Mandibular Advancement Device]
+3. [RF turbinates + outfracture] [Septoplasty]
+4. [Hypoglossal N. Stim] [Lingual Tonsil Reduction] [MDT]"
+29.0,20.0,20.0,94.0,10.5,73.5,18.36232811442864,11.962343444345738,19.0,1.0,2,2.0,2.0,4.0,0,2,alt 1,0,75.0,50.0,0.0,43.0,2.0,10.0,0.6878102420390839,0.3118880327292238,1,0,2,1,0,"[Weight Loss][Rhinitis Rx][PPI Trial – discuss in OPD][Myofunct. Therapy][CBTi]
+[Sleep Position Modifier]  NIPF in OPD
+[MDT] +/_ [TORS][Orthognathic Surgery]
+[Procut Palatoplasty (anterior / inferior)] +/_ [Barbed Suture]
+[RF turbinates + outfracture] ",{},{},
+31.0,25.0,36.0,93.0,8.0,82.0,17.47405060333582,11.450379402738356,7.0,8.0,3,3.0,2.0,2.5,0,1,mild,mild spur R,75.0,50.0,0.0,43.0,4.0,14.0,24,0.3133550438043748,2,0,2,1,0,"1.[Weight Loss] [Rhinitis Rx][Restart / continue CPAP][MAD] [Allergy Testing – done on DSU]
+2.[Lingual Tonsil Reduction] [Barbed Suture]","{1: ['Weight Loss', 'Rhinitis Rx', 'Restart / continue CPAP', 'MAD', 'Allergy Testing – done on DSU'], 2: ['Lingual Tonsil Reduction', 'Barbed Suture']}","{1: ['Weight Loss', 'Rhinitis Rx', 'CPAP', 'Mandibular Advancement Device', 'Allergy Testing – done on DSU'], 2: ['Lingual Tonsil Reduction', 'Barbed Suture']}","1. [Weight Loss]
+2. [RF turbinates]
+4. [Hypoglossal N. Stim]"
+33.6,66.0,78.0,92.0,20.0,74.0,16.406383502985108,10.908349571629968,2.0,4.0,2,2.0,2.0,2.0,2,3,0,spur to L. disloc to R,75.0,50.0,0.0,43.0,5.0,10.0,23,0.3722003635106869,2,1,1,0,0,"1.[continue Weight Loss][+rpt sleep study]
+2.[Procut Palatoplasty (anterior / inferior)] +/- [RF Palate]
++/- [Tonsillectomy depending on appearance of airway after palatoplasty]","{1: ['continue Weight Loss', '+rpt sleep study'], 2: ['Procut Palatoplasty (anterior / inferior)', 'RF Palate', 'Tonsillectomy depending on appearance of airway after palatoplasty']}","{1: ['continue Weight Loss', '+rpt sleep study'], 2: ['Procut Palatoplasty', 'RF Palate', 'Tonsillectomy depending on appearance of airway after palatoplasty']}","1. [Weight Loss]
+3. [RF turbinates + outfracture]"
+24.0,29.0,30.0,92.0,22.0,72.0,16.894908925059923,9,6.0,0.0,3,3.0,2.0,2.5,1,3,1,R 2Plus R4 PlusPlus horiz,75.0,50.0,0.0,43.0,3.0,10.0,0.6158287823214171,0.3869446132792462,1,0,2,0,0,"1.[continue Rhinitis Rx] 
+2.[Barbed Suture] +/- [Tonsillectomy] [Procut Palatoplasty (anterior / inferior)] ","{1: ['continue Rhinitis Rx'], 2: ['Barbed Suture', 'Tonsillectomy', 'Procut Palatoplasty (anterior / inferior)']}","{1: ['Rhinitis Rx'], 2: ['Barbed Suture', 'Tonsillectomy', 'Procut Palatoplasty']}","1. [Rhinitis Rx]
+2. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]"
+27.8,40.0,43.0,92.7,8.0,78.0,16.260420019237582,10.783128990292363,8.0,1.0,2,1.0,2.0,3.0,0,n,0,left spur all way to back,75.0,0.0,0.0,43.0,1.0,11.0,63,0.3157099149830391,1,0,0,2,0,"1.[Chinstrap][MAD][Sleep Position Modifier]
+2.[Hypoglossal N. Stimulator]","{1: ['Chinstrap', 'MAD', 'Sleep Position Modifier'], 2: ['Hypoglossal N. Stimulator']}","{1: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Hypoglossal N. Stim']}",1. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+26.0,33.0,43.0,92.0,18.0,84.0,16.0920103434447,10.600877898186589,0.0,0.0,2,3.0,1.5,2.0,2,3,red,L2Plus,75.0,50.0,0.0,43.0,6.0,10.0,28,0.3781506968968465,1,2 with chin lift,0,2 with trapdoor,0,"1.[Sleep Position Modifier][Allergy Testing form done in theatre]
+2.[MDT]
+3.[RF BOT] +/- [Lingual Tonsil Reduction - coblation] [Tonsillectomy – ? coblation]
+4.+/- [Procut Palatoplasty (anterior / inferior)]
+5.[MDT] [TORS] [Orthognathic Surgery] [Hypoglossal N. Stim]
+6.[RF turbinates + outfracture] ","{1: ['Sleep Position Modifier', 'Allergy Testing form done in theatre'], 2: ['MDT'], 3: ['RF BOT', 'Lingual Tonsil Reduction - coblation', 'Tonsillectomy – ? coblation'], 4: ['Procut Palatoplasty (anterior / inferior)'], 5: ['MDT', 'TORS', 'Orthognathic Surgery', 'Hypoglossal N. Stim'], 6: ['RF turbinates + outfracture']}","{1: ['Sleep Position Modifier', 'Allergy Testing form done in theatre'], 2: ['MDT'], 3: ['RF BOT', 'Lingual Tonsil Reduction', 'Tonsillectomy – ? coblation'], 4: ['Procut Palatoplasty'], 5: ['MDT', 'TORS', 'Orthognathic Surgery', 'Hypoglossal N. Stim'], 6: ['RF turbinates + outfracture']}","1. [Sleep Position Modifier]
+3. [Lingual Tonsil Reduction] [RF BOT]
+4. [Procut Palatoplasty]"
+28.0,13.0,25.0,92.0,7.0,82.0,15.258030536031889,12,7.0,14.0,2,3.0,2.0,2.0,1,3+,mild,R2PlusPlus reduced airway on R,75.0,50.0,0.0,43.0,5.0,10.0,0.6584184417656377,0.3440769671900371,1,1,0,1,1 (medial collapse),"1.[Weight Loss][Rhinitis Rx][PPI Trial][consider CBTi]
+2.[Chinstrap][Mandibular Advancement Device][Sleep Position Modifier]
+3.[Lingual Tonsil coblation][epiglottoplasty] +/- [Tonsillectomy] [Barbed Suture]
+4.[MDT][Hypoglossal N. Stim]","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'consider CBTi'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Lingual Tonsil coblation', 'epiglottoplasty', 'Tonsillectomy', 'Barbed Suture'], 4: ['MDT', 'Hypoglossal N. Stim']}","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'consider CBTi'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Lingual Tonsil Reduction', 'epiglottoplasty', 'Tonsillectomy', 'Barbed Suture'], 4: ['MDT', 'Hypoglossal N. Stim']}","1. [PPI Trial] [Rhinitis Rx] [Weight Loss]
+2. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Barbed Suture] [Lingual Tonsil Reduction] [Tonsillectomy]
+4. [Hypoglossal N. Stim] [MDT]"
+35.0,14.0,21.0,89.0,49.0,72.0,13.02669603007107,4,20.0,20.0,2,2.0,1.0,1.0,0,2,3 pale wet,"R2Plus, L2PlusPlus, overriding L Plus broad max crest?",75.0,50.0,0.0,43.0,6.0,10.0,0.6513690625475603,0.3479949085737675,1,0,0,2,0,"1.Eat & Drink + Home later if well with no desats while asleep otherwise ENT / anaesth review
+2.OPD consultant _1 only in 4 weeks with HISTOLOGY AMHTC
+3.Continue [Weight Loss] [Rhinitis Rx]  [PPI Trial] [CBTi]
+4.Start CPAP
+5.Consider [Lingual Tonsil Reduction - coblation] when BMI <32","{1: [], 2: [], 3: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'CBTi'], 4: [], 5: ['Lingual Tonsil Reduction - coblation']}","{1: [], 2: [], 3: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'CBTi'], 4: [], 5: ['Lingual Tonsil Reduction']}","1. [Weight Loss]
+2. [+rpt sleep study] [Rhinitis Rx]
+4. [Hypoglossal N. Stim] [MDT]"
+25.6,21.0,19.0,94.0,10.5,77.0,14.794211463410496,10.250311884602985,10.0,4.0,2,0.5,1.5,2.0,1,l,2,L2PlusPlus,75.0,50.0,0.0,43.0,6.0,13.0,51,0.3684725483577522,2,0,1,2,1," 1.[No Rhinitis Rx as Glaucoma][Myofunct. Therapy]
+ 2.[MAD][Allergy Testing]
+ 3.[RF turbinates][Septoplasty]
+ 4.[Hypoglossal N. Stimulator][not TORS epiglottoplasty  – multiple comorbidities]  ","{1: ['No Rhinitis Rx as Glaucoma', 'Myofunct. Therapy'], 2: ['MAD', 'Allergy Testing'], 3: ['RF turbinates', 'Septoplasty'], 4: ['Hypoglossal N. Stimulator', 'not TORS epiglottoplasty  – multiple comorbidities']}","{1: ['No Rhinitis Rx as Glaucoma', 'Myofunct. Therapy'], 2: ['Mandibular Advancement Device', 'Allergy Testing'], 3: ['RF turbinates', 'Septoplasty'], 4: ['Hypoglossal N. Stim', 'not TORS epiglottoplasty – multiple comorbidities']}","1. [Myofunct. Therapy]
+2. [Allergy Testing] [Mandibular Advancement Device]
+3. [RF turbinates] [Septoplasty]
+4. [Hypoglossal N. Stim]"
+32.3,18.6,20.5,94.0,3.0,70.0,16.581591696714607,10.996695832797037,17.0,7.0,1,0.5,1.0,2.0,1,mod,1,L2 reduced by gen DNS,75.0,50.0,0.0,43.0,5.0,10.0,29,0.3498403938567682,1,0,1,1,1,"1.[Weight Loss][Rhinitis Rx][PPI Trial]
+2.[Chinstrap][MAD ?bespoke][Allergy Testing]
+3.? [RF turbinates] +/- [RF BOT] ","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial'], 2: ['Chinstrap', 'MAD ?bespoke', 'Allergy Testing'], 3: ['RF turbinates', 'RF BOT']}","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial'], 2: ['Chinstrap', 'MAD ?bespoke', 'Allergy Testing'], 3: ['RF turbinates', 'RF BOT']}","1. [Myofunct. Therapy] [PPI Trial] [Rhinitis Rx] [Weight Loss]
+2. [Allergy Testing] [Chinstrap]
+3. [RF BOT] [RF turbinates]"
+30.0,55.0,73.0,91.0,27.0,70.0,13.252995707271118,0,0.0,0.0,1,0.0,2.0,2.0,0,3,2,L2PlusPlus,75.0,50.0,0.0,43.0,7.0,10.0,0.6513920449063465,0.3466406770085536,1,0,0,2,1,"1.[Weight Loss] [Rhinitis Rx] _ Saline Douche [Chinstrap][Mandibular Advancement Device]
+[Allergy Testing – requested in theatre] [continue CPAP]
+2.[Septoplasty] [RF turbinates + outfracture] +/- [Palatoplasty]","{1: ['Weight Loss', 'Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device', 'Allergy Testing – requested in theatre', 'continue CPAP'], 2: ['Septoplasty', 'RF turbinates + outfracture', 'Palatoplasty']}","{1: ['Weight Loss', 'Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device', 'Allergy Testing – requested in theatre', 'CPAP'], 2: ['Septoplasty', 'RF turbinates + outfracture', 'Palatoplasty']}","1. [CPAP] [Chinstrap] [Mandibular Advancement Device] [Rhinitis Rx] [Weight Loss]
+2. [RF turbinates + outfracture] [Septoplasty]
+3. [Septoplasty]"
+26.0,24.0,46.0,95.0,2.0,83.0,16.213123314485166,11.07279277111056,17.0,17.0,2,1.5,2.0,2.0,1,n,pale,R2Plus spur,75.0,50.0,0.0,43.0,3.0,10.0,5,0.3626515632039321,1,0,2,1,0,"1.[Rhinitis Rx][chinstrap for snorers][Mandibular advancement device][Sleep Position Modifier][Sleep Hygiene][Myofunct. Therapy]    
+2.[Anterior / inferior Palatoplasty + partial (limited) uvulectomy][RF turbinates][limited Septoplasty]","{1: ['Rhinitis Rx', 'chinstrap for snorers', 'Mandibular advancement device', 'Sleep Position Modifier', 'Sleep Hygiene', 'Myofunct. Therapy'], 2: ['Anterior / inferior Palatoplasty + partial (limited) uvulectomy', 'RF turbinates', 'limited Septoplasty']}","{1: ['Rhinitis Rx', 'chinstrap for snorers', 'Mandibular Advancement Device', 'Sleep Position Modifier', 'Sleep Hygiene', 'Myofunct. Therapy'], 2: ['Anterior / inferior Palatoplasty + partial (limited) uvulectomy', 'RF turbinates', 'limited Septoplasty']}","1. [Mandibular Advancement Device] [Myofunct. Therapy] [Rhinitis Rx] [Sleep Hygiene] [Sleep Position Modifier]
+2. [RF turbinates]"
+29.6,80.0,80.0,90.0,30.0,70.0,10.830144839936192,7.408406532173615,5.0,0.0,1,0.5,2.0,2.0,1,n,0,bilat max crest spurs mild,75.0,50.0,0.0,43.0,4.0,10.0,0.6593896947514611,0.3410924003198742,1,0,1,2,0 /1,"1.[Weight Loss][Myofunct. Therapy][CBTi] [Sleep Position Modifier]
+2.[MAD by Max Facs] [+rpt sleep study]
+3.[Orthognathic Surgery][TORS][Hypoglossal N. Stimulator]","{1: ['Weight Loss', 'Myofunct. Therapy', 'CBTi', 'Sleep Position Modifier'], 2: ['MAD by Max Facs', '+rpt sleep study'], 3: ['Orthognathic Surgery', 'TORS', 'Hypoglossal N. Stimulator']}","{1: ['Weight Loss', 'Myofunct. Therapy', 'CBTi', 'Sleep Position Modifier'], 2: ['MAD by Max Facs', '+rpt sleep study'], 3: ['Orthognathic Surgery', 'TORS', 'Hypoglossal N. Stim']}","1. [CBTi] [CPAP] [Chinstrap] [Mandibular Advancement Device]
+3. [Septoplasty]"
+30.0,24.0,28.0,91.0,9.0,72.0,16.09200494703876,10.731006918549099,7.0,0.0,0,0.5,1.5,2.0,1,3,2,0,75.0,50.0,0.0,43.0,5.0,10.0,?,0.3499774130018535,1,0,0,2,0,"1.[Weight loss][Chinstrap][Mandibular Advancement Device][Sleep Position Modifier]
+2.[RF BOT] [Allergy Testing]","{1: ['Weight loss', 'Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['RF BOT', 'Allergy Testing']}","{1: ['Weight loss', 'Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['RF BOT', 'Allergy Testing']}","1. [Chinstrap] [Weight Loss]
+2. [Chinstrap] [Mandibular Advancement Device]"
+28.0,17.0,30.0,93.0,7.0,73.5,15.811942181945325,10.535346978341359,14.0,10.0,2,1.0,1.0,2.0,2,2,1,bimax crest R2Plus L4PlusL OMC polyp,75.0,50.0,0.0,43.0,5.0,10.0,56,0.3324984251952269,2,1,1,2,0,"1.[Weight Loss][Rhinitis Rx]  [CBTi] CT Sinus – requested in Theatre []
+2.[Mandibular Advancement Device][Sleep Position Modifier]
+3.[FESS Polypectomy] [Septoplasty] [RF turbinates + outfracture]
+4.[rpt DISE] +/- [Tonsillectomy]+/- [Barbed Suture][Procut Palatoplasty (anterior / inferior)] ","{1: ['Weight Loss', 'Rhinitis Rx', 'CBTi'], 2: ['Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['FESS Polypectomy', 'Septoplasty', 'RF turbinates + outfracture'], 4: ['rpt DISE', 'Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty (anterior / inferior)']}","{1: ['Weight Loss', 'Rhinitis Rx', 'CBTi'], 2: ['Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['FESS Polypectomy', 'Septoplasty', 'RF turbinates + outfracture'], 4: ['rpt DISE', 'Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty']}",
+31.3,7.7,17.0,94.0,7.6,81.0,17.890710270509917,11.91624258872301,0.0,0.0,2,2.0,2.0,3.0,1,n,1,mild right posterior spur,75.0,50.0,0.0,43.0,3.0,18.0,84,0.3196219794692077,2,1,1,0,0,"1.[Weight Loss][Rhinitis Rx][Sleep Hygiene] [Myofunct. Therapy] [CBTi] Monitor progress with SnoreLab app.
+2.[Procut Palatoplasty]  +/- [RF turbinates] not available on NHS for snoring.","{1: ['Weight Loss', 'Rhinitis Rx', 'Sleep Hygiene', 'Myofunct. Therapy', 'CBTi'], 2: ['Procut Palatoplasty', 'RF turbinates']}","{1: ['Weight Loss', 'Rhinitis Rx', 'Sleep Hygiene', 'Myofunct. Therapy', 'CBTi'], 2: ['Procut Palatoplasty', 'RF turbinates']}","1. [CBTi] [Myofunct. Therapy] [Rhinitis Rx] [Sleep Hygiene] [Weight Loss]
+2. [Procut Palatoplasty] [RF turbinates]"
+28.0,21.2,41.0,92.0,13.4,82.0,15.974770047997003,10.528692762542342,2.0,0.0,0,0.5,2.0,2.5,2,m,1,"L 2Plus , Lmax crest PlusPlus",75.0,50.0,0.0,43.0,5.0,10.0,0.0,0.3439365776422812,2,2,0,0,0,"1.[Sleep Position Modifier][Weight Loss][Chinstrap][MAD]Vit D
+2.[Tonsillectomy][Barbed Suture]","{1: ['Sleep Position Modifier', 'Weight Loss', 'Chinstrap', 'MAD'], 2: ['Tonsillectomy', 'Barbed Suture']}","{1: ['Sleep Position Modifier', 'Weight Loss', 'Chinstrap', 'Mandibular Advancement Device'], 2: ['Tonsillectomy', 'Barbed Suture']}","1. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier] [Weight Loss]
+2. [Barbed Suture] [Tonsillectomy]"
+28.0,38.0,47.0,95.0,4.0,83.0,17.883178330723343,6,10.0,10.0,2,2.0,2.0,2.0,2,2,2,L2Plus,75.0,50.0,0.0,37.0,7.0,10.0,0.6772146634694107,0.323305382450437,1,2,0,0,0,"1.[Weight Loss][continue Rhinitis Rx][continue CPAP][nipf]
+2.[Mandibular Advancement Device][Sleep Position Modifier]
+3.[Tonsillectomy] [Procut Palatoplasty (anterior / inferior)] ","{1: ['Weight Loss', 'continue Rhinitis Rx', 'continue CPAP', 'nipf'], 2: ['Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Procut Palatoplasty (anterior / inferior)']}","{1: ['Weight Loss', 'Rhinitis Rx', 'CPAP', 'nipf'], 2: ['Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Procut Palatoplasty']}","1. [CPAP] [Rhinitis Rx] [Weight Loss]
+2. [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Procut Palatoplasty] [Tonsillectomy]"
+28.0,53.0,38.0,92.0,25.0,75.0,15.258030536031889,10.06152707433954,15.0,15.0,3,3.0,2.0,2.0,0,0,alternating,0,100.0,50.0,0.0,43.0,5.0,14.0,18,0.3440769671900371,2,0,2,0,0,"1.[Weight Loss] [Sleep Hygiene] [CBTi] [CT Soft tissues of the pharynx for dimensions]
+2.Retry CPAP
+3.[MDT] +/- [barbed suture pharyngoplasty) +/- [RF turbinates + outfracture] ","{1: ['Weight Loss', 'Sleep Hygiene', 'CBTi', 'CT Soft tissues of the pharynx for dimensions'], 2: [], 3: ['MDT', 'barbed suture pharyngoplasty) +/- [RF turbinates + outfracture']}","{1: ['Weight Loss', 'Sleep Hygiene', 'CBTi', 'CT Soft tissues of the pharynx for dimensions'], 2: [], 3: ['MDT', 'barbed suture pharyngoplasty) +/- [RF turbinates + outfracture']}","1. [CBTi] [Sleep Hygiene] [Weight Loss]
+3. [MDT]"
+25.0,15.0,16.0,94.0,5.0,77.0,14.609938712607097,12,3.0,8.0,1,2.0,1.0,2.0,2,2,wet,L2PlusPlus,75.0,50.0,0.0,43.0,5.0,10.0,0.6345246114975499,0.3662135952957974,1,2,0,2,0,"1.[Rhinitis Rx – flixonase ii OD 3/12]  [CBTi]  [Mandibular Advancement Device] [RAST]
+2.[Tonsillectomy]
+3.[RF BOT] +/- [Lingual Tonsil Reduction - coblation]
+4.[revision Septoplasty] [RF turbinates + outfracture] ","{1: ['Rhinitis Rx – flixonase ii OD 3/12', 'CBTi', 'Mandibular Advancement Device', 'RAST'], 2: ['Tonsillectomy'], 3: ['RF BOT', 'Lingual Tonsil Reduction - coblation'], 4: ['revision Septoplasty', 'RF turbinates + outfracture']}","{1: ['Rhinitis Rx – flixonase ii OD 3/12', 'CBTi', 'Mandibular Advancement Device', 'RAST'], 2: ['Tonsillectomy'], 3: ['RF BOT', 'Lingual Tonsil Reduction'], 4: ['revision Septoplasty', 'RF turbinates + outfracture']}","1. [CBTi] [Mandibular Advancement Device]
+2. [Tonsillectomy]
+3. [Lingual Tonsil Reduction] [RF BOT]"
+29.0,34.0,35.0,94.0,7.0,72.0,20.629303809240355,8,9.0,0.0,0,0.0,2.0,2.0,2,3,1,bilat max crest,75.0,50.0,0.0,43.0,6.0,10.0,0.0,0.3086970788859098,2,0,0,0,1 when deep,"1.[Weight Loss][Rhinitis Rx][Chinstrap]   
+2.[Mandibular Advancement Device][Sleep Position Modifier]
+3.[RF turbinates + outfracture] + [Procut Palatoplasty (anterior)] ","{1: ['Weight Loss', 'Rhinitis Rx', 'Chinstrap'], 2: ['Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['RF turbinates + outfracture', 'Procut Palatoplasty (anterior)']}","{1: ['Weight Loss', 'Rhinitis Rx', 'Chinstrap'], 2: ['Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['RF turbinates + outfracture', 'Procut Palatoplasty (anterior)']}","1. [Chinstrap] [Rhinitis Rx] [Weight Loss]
+2. [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [RF turbinates + outfracture]"
+31.2,44.0,19.6,92.7,15.0,81.0,18.045741924917813,11.690703628444446,6.0,4.0,2,2.0,2.0,2.0,0,0,pale wet 3,Left spur PlusPlus,75.0,50.0,75.0,43.0,5.0,10.0,25,0.3086891966075402,1,0,1,2,0,"1.[Weight Loss][Rhinitis Rx][CBTi] [reflux advice] omeprazole BD til r/v
+2.[MDT] - ? release of previous ? [Barbed Suture] ? wedge epiglottis ? epiglottopexy","{1: ['Weight Loss', 'Rhinitis Rx', 'CBTi', 'reflux advice'], 2: ['MDT', 'Barbed Suture']}","{1: ['Weight Loss', 'Rhinitis Rx', 'CBTi', 'reflux advice'], 2: ['MDT', 'Barbed Suture']}","1. [CBTi] [Rhinitis Rx] [Weight Loss]
+2. [Barbed Suture]"
+28.2,51.0,48.0,95.0,3.0,83.0,18.433969127126822,0,3.0,9.0,3,3.0,2.0,3.0,2,3,congested,L4Plus,75.0,50.0,0.0,43.0,5.0,10.0,0.6829905380139821,0.3160233434821147,2,2,0,1,0,"1.[Weight Loss][Rhinitis Rx – spray and sinurinse (especially after dusty work)] 
+2.? [Allergy Testing] in OPD – check results from June 25 [ continue CPAP]
+3.[Tonsillectomy] [Barbed Suture] [Procut Palatoplasty (anterior / inferior)] ","{1: ['Weight Loss', 'Rhinitis Rx – spray and sinurinse (especially after dusty work)'], 2: ['Allergy Testing', 'continue CPAP'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty (anterior / inferior)']}","{1: ['Weight Loss', 'Rhinitis Rx – spray and sinurinse (especially after dusty work)'], 2: ['Allergy Testing', 'CPAP'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty']}","1. [Weight Loss]
+2. [Allergy Testing]
+3. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]"
+28.0,73.0,67.0,81.0,74.4,50.0,13.843291259163182,9.839361579883837,5.0,7.0,1,1.0,1.0,2.0,2,l,pale 3,0,75.0,50.0,0.0,43.0,5.0,13.0,27,0.3680944364199198,1,0,0,2,0,"1.[Rhinitis Rx][Chinstrap][MAD][Allergy Testing] [douche]
+2.[RF turbinates] [RF BOT] +/-[Procut Palatoplasty][+rpt sleep study]
+3.[TORS]  ","{1: ['Rhinitis Rx', 'Chinstrap', 'MAD', 'Allergy Testing', 'douche'], 2: ['RF turbinates', 'RF BOT', 'Procut Palatoplasty', '+rpt sleep study'], 3: ['TORS']}","{1: ['Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device', 'Allergy Testing', 'douche'], 2: ['RF turbinates', 'RF BOT', 'Procut Palatoplasty', '+rpt sleep study'], 3: ['TORS']}","1. [Allergy Testing] [Chinstrap] [Mandibular Advancement Device] [Rhinitis Rx]
+2. [+rpt sleep study] [Procut Palatoplasty] [RF BOT] [RF turbinates]"
+29.7,31.0,37.0,92.0,17.0,72.0,13.88403482847524,9.250245960670227,12.0,9.0,2,2.0,2.0,2.0,2,short neo,1,mild right anterior septal deviation,75.0,50.0,0.0,43.0,4.0,12.0,51,0.333087841737999,2,1,0,0,0,[Tonsillectomy][Barbed Suture] ,{},{},2. [Tonsillectomy]
+28.5,38.0,44.0,94.0,15.0,79.0,17.39101806373143,11.518311064540093,18.0,3.0,3,3.0,2.0,2.0,1,3,1 pale,0,75.0,50.0,0.0,43.0,4.0,10.0,22,0.3135266440334372,1,1,0,1,1,"1.[Rhinitis Rx] [PPI] [SALT assessment / referral]
+2.May need PSG with cutaneous CO2 monitoring at UCLH – Refer to Dr McNeillis
+3.? rpt DISE (rec) + [Procut Palatoplasty (ant/inf)] + [RF BOT] [Lingual Tonsil coblation]
+4.[RF turbinates + outfracture]
+5.[MDT] [Orthognathic Surgery] [Hypoglossal N. Stim]","{1: ['Rhinitis Rx', 'PPI', 'SALT assessment / referral'], 2: [], 3: ['Procut Palatoplasty (ant/inf)', 'RF BOT', 'Lingual Tonsil coblation'], 4: ['RF turbinates + outfracture'], 5: ['MDT', 'Orthognathic Surgery', 'Hypoglossal N. Stim']}","{1: ['Rhinitis Rx', 'PPI', 'SALT assessment / referral'], 2: [], 3: ['Procut Palatoplasty (ant/inf)', 'RF BOT', 'Lingual Tonsil Reduction'], 4: ['RF turbinates + outfracture'], 5: ['MDT', 'Orthognathic Surgery', 'Hypoglossal N. Stim']}","1. [Rhinitis Rx]
+3. [Lingual Tonsil Reduction] [RF BOT]"
+32.0,16.0,18.0,95.0,3.0,72.0,16.777122134957565,6,3.0,9.0,2,2.0,2.0,2.5,0,neo1,0,0,75.0,50.0,0.0,43.0,7.0,10.0,0.6644954316853977,0.3346578562599945,1,0,2,0,0,"1.[Weight Loss]   [Mandibular Advancement Device] [Sleep Position Modifier]
+2.[+rpt sleep study] with adjuncts + monitor with app","{1: ['Weight Loss', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['+rpt sleep study']}","{1: ['Weight Loss', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['+rpt sleep study']}","1. [Mandibular Advancement Device] [Sleep Position Modifier] [Weight Loss]
+2. [+rpt sleep study]"
+31.0,41.0,85.0,92.0,17.0,61.0,16.188088942222674,20,3.0,11.0,3,3.0,2.0,2.0,1,3,boggy,0,75.0,50.0,0.0,44.0,6.0,10.0,0.6708816913586538,0.3289004894800928,2,0,2,2,0,"1.[Weight Loss][Rhinitis Rx] 
+2.[Chinstrap]    [Mandibular Advancement Device][Sleep Position Modifier]
+3.[Tonsillectomy] [Barbed Suture]+/-[Procut Palatoplasty (anterior / inferior)] if BMI <30 With repeat SS showing ongoing issue.","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty (anterior / inferior)']}","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty']}","1. [Rhinitis Rx] [Weight Loss]
+2. [Barbed Suture] [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]"
+26.0,43.0,61.0,94.0,6.0,81.0,15.152638015567426,4,5.0,14.0,3,1.0,2.0,2.0,1,2,1,0,75.0,50.0,0.0,43.0,5.0,10.0,0.6413012357924144,0.3575615295314315,2,1,1,2,1,"1.[Sleep Position Modifier] [continue Rhinitis Rx]  [Sleep Hygiene] [CBTi]
+2.[Mandibular Advancement Device] +/- [Chinstrap]   
+3.[Tonsillectomy] [Barbed Suture] [Procut Palatoplasty (anterior / inferior)] [RF BOT]
+4.[MDT] [Hypoglossal N. Stim]","{1: ['Sleep Position Modifier', 'continue Rhinitis Rx', 'Sleep Hygiene', 'CBTi'], 2: ['Mandibular Advancement Device', 'Chinstrap'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty (anterior / inferior)', 'RF BOT'], 4: ['MDT', 'Hypoglossal N. Stim']}","{1: ['Sleep Position Modifier', 'Rhinitis Rx', 'Sleep Hygiene', 'CBTi'], 2: ['Mandibular Advancement Device', 'Chinstrap'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty', 'RF BOT'], 4: ['MDT', 'Hypoglossal N. Stim']}","1. [CBTi] [Rhinitis Rx]
+2. [Chinstrap] [Mandibular Advancement Device]
+3. [Barbed Suture] [Procut Palatoplasty] [RF turbinates + outfracture] [Septoplasty]
+4. [Hypoglossal N. Stim] [Tonsillectomy]"
+25.0,26.0,51.0,90.0,4.5,76.0,15.013669868710332,10.120685778425203,5.0,9.0,1,1.0,2.0,2.0,1,broad,n,R NDS area 2. L max crest,75.0,50.0,0.0,43.0,5.0,10.0,29,0.3865737418054618,2,0,2,2,0,"1.[Weight Loss] [MAD][Sleep Position Modifier][Allergy Testing] [Restart / continue CPAP]
+2.[Tonsillectomy] [Adenoidectomy] [Barbed Suture] +/- [Procut Palatoplasty]
+3.[RF BOT] [Lingual Tonsil Reduction]","{1: ['Weight Loss', 'MAD', 'Sleep Position Modifier', 'Allergy Testing', 'Restart / continue CPAP'], 2: ['Tonsillectomy', 'Adenoidectomy', 'Barbed Suture', 'Procut Palatoplasty'], 3: ['RF BOT', 'Lingual Tonsil Reduction']}","{1: ['Weight Loss', 'Mandibular Advancement Device', 'Sleep Position Modifier', 'Allergy Testing', 'CPAP'], 2: ['Tonsillectomy', 'Adenoidectomy', 'Barbed Suture', 'Procut Palatoplasty'], 3: ['RF BOT', 'Lingual Tonsil Reduction']}","1. [Allergy Testing] [CPAP] [Mandibular Advancement Device] [Sleep Position Modifier] [Weight Loss]
+2. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]
+3. [Lingual Tonsil Reduction] [RF BOT]"
+30.5,50.0,62.5,92.8,10.5,73.5,17.753937515412666,11.8396055037172,7.0,8.0,2,2.0,3.0,3.0,1,l,y,DNS right anteriorly (obstructing). Spur left,100.0,75.0,0.0,43.0,5.0,9.0,0.6923042749324919,0.3011680457623216,2,1,1,0,0,"1.Weight Loss / rhinitis therapy to continue
+2.Tonsillectomy + procut palatoplasty
+3.Check RAST/ IgE / Vit D / Spray usage
+4.Second stage Septoplasty +/- anterior palatoplasty ","{1: [], 2: [], 3: [], 4: []}","{1: [], 2: [], 3: [], 4: []}",1. [Sleep Hygiene]
+28.5,32.0,58.0,94.0,10.5,73.5,17.39101806373143,4,2.0,16.0,2,3.0,2.0,2.0,1,3,2,0,75.0,50.0,0.0,43.0,5.0,10.0,0.6875748807704847,0.3135266440334372,1,1,1,2,0,"1. ?[Weight Loss][Rhinitis Rx]
+2. [Chinstrap][Mandibular Advancement Device][Sleep Position Modifier]
+3.[Palatoplasty (anterior / inferior)][Lingual Tonsil Reduction - coblation][RF turbinates + outfracture] ","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Palatoplasty (anterior / inferior)', 'Lingual Tonsil Reduction - coblation', 'RF turbinates + outfracture']}","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Procut Palatoplasty', 'Lingual Tonsil Reduction', 'RF turbinates + outfracture']}","1. [Rhinitis Rx] [Weight Loss]
+2. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Lingual Tonsil Reduction] [Procut Palatoplasty] [RF turbinates + outfracture] [Tonsillectomy]"
+29.0,18.8,28.0,92.9,8.0,71.0,17.36240668794678,11.388264790377558,0.0,2.0,3,1.5,1.0,2.0,2,n,1,0,75.0,50.0,0.0,43.0,7.0,10.0,45,0.3090127308888392,2,0,1,2,0,"1.[MAD through Miss Pappa][Sleep Position Modifier][+rpt sleep study with MAD - req in OPD]
+2.[RF BOT] +/- [Lingual Tonsil Reduction] / [TORS] /[Hypoglossal N. Stimulator] through MDT","{1: ['MAD through Miss Pappa', 'Sleep Position Modifier', '+rpt sleep study with MAD - req in OPD'], 2: ['RF BOT', 'Lingual Tonsil Reduction', 'TORS', 'Hypoglossal N. Stimulator']}","{1: ['MAD through Miss Pappa', 'Sleep Position Modifier', '+rpt sleep study with MAD - req in OPD'], 2: ['RF BOT', 'Lingual Tonsil Reduction', 'TORS', 'Hypoglossal N. Stim']}","1. [Sleep Position Modifier]
+2. [Lingual Tonsil Reduction] [RF BOT]"
+40.0,56.0,56.0,92.0,14.0,68.0,18.195688143467898,12.199093231726433,0.0,4.0,1,1.0,2.0,2.0,3,n,mild wet pale,tight bilaterally,75.0,50.0,0.0,43.0,5.0,10.0,0.6835917027316328,0.3172912390489046,2,2,0,0,0,1.[Weight Loss][+rpt sleep study],"{1: ['Weight Loss', '+rpt sleep study']}","{1: ['Weight Loss', '+rpt sleep study']}",1. [+rpt sleep study] [Weight Loss]
+31.2,18.0,16.0,94.0,3.7,73.0,17.882843206720395,11.797160614584797,24.0,20.0,2,2.0,2.0,2.0,2,l,1,0,75.0,50.0,0.0,43.0,5.0,10.0,80,0.3174099470280747,1,1,1,0,0,"1.[Weight Loss to <30 BMI][Rhinitis Rx] [PPI Trial] [Allergy Testing] [CBTi]
+2.[RF turbinates] [+rpt sleep study]","{1: ['Weight Loss to <30 BMI', 'Rhinitis Rx', 'PPI Trial', 'Allergy Testing', 'CBTi'], 2: ['RF turbinates', '+rpt sleep study']}","{1: ['Weight Loss to <30 BMI', 'Rhinitis Rx', 'PPI Trial', 'Allergy Testing', 'CBTi'], 2: ['RF turbinates', '+rpt sleep study']}","1. [PPI Trial] [Rhinitis Rx] [Weight Loss]
+3. [Lingual Tonsil Reduction]"
+26.6,105.0,111.0,90.0,41.0,70.0,12.737393546249528,8.671536518353951,6.0,12.0,2,1.0,2.0,2.0,3,n,2,no,50.0,50.0,50.0,43.0,3.0,10.0,8,0.3680272151478354,1,2,1,1,0,"1.[Weight Loss][Rhinitis Rx][Vit D replacement][Chinstrap][MAD][Restart / continue CPAP]
+2.[Tonsillectomy] [Adenoidectomy] +/- [Expansion Sphincteroplasty]
+3.[turbinoplasty]","{1: ['Weight Loss', 'Rhinitis Rx', 'Vit D replacement', 'Chinstrap', 'MAD', 'Restart / continue CPAP'], 2: ['Tonsillectomy', 'Adenoidectomy', 'Expansion Sphincteroplasty'], 3: ['turbinoplasty']}","{1: ['Weight Loss', 'Rhinitis Rx', 'Vit D replacement', 'Chinstrap', 'Mandibular Advancement Device', 'CPAP'], 2: ['Tonsillectomy', 'Adenoidectomy', 'Expansion Sphincteroplasty'], 3: ['turbinoplasty']}","1. [CPAP] [Chinstrap] [Mandibular Advancement Device] [Rhinitis Rx] [Weight Loss]
+2. [Septoplasty] [Tonsillectomy]"
+31.0,17.0,17.0,93.0,3.0,80.0,17.47405060333582,11.450379402738356,15.0,17.0,1,2.0,1.5,2.5,2,2,1,restricted nasal valve R,75.0,50.0,0.0,43.0,5.0,10.0,85,0.3133550438043748,2,2,0,1,0,"1.[Weight Loss][continue Rhinitis Rx][consider Mandibular Advancement Device]
+2.[Tonsillectomy][Procut Palatoplasty] [RF Palate]
+3.[RF BOT] [Lingual Tonsil Reduction] ","{1: ['Weight Loss', 'continue Rhinitis Rx', 'consider Mandibular Advancement Device'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF Palate'], 3: ['RF BOT', 'Lingual Tonsil Reduction']}","{1: ['Weight Loss', 'Rhinitis Rx', 'consider Mandibular Advancement Device'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF Palate'], 3: ['RF BOT', 'Lingual Tonsil Reduction']}","1. [Rhinitis Rx] [Weight Loss]
+2. [Procut Palatoplasty] [RF Palate] [Tonsillectomy]
+3. [Lingual Tonsil Reduction] [RF BOT]"
+27.0,22.0,50.0,93.0,9.0,69.0,15.707152046346057,5,6.0,0.0,1,0.0,2.0,2.0,3,2,0,max L crest spur Plus,75.0,50.0,0.0,37.0,5.0,10.0,0.6634310876957692,0.3349998224584449,2,2,0,0,0,"1.[Chinstrap][Mandibular Advancement Device][Sleep Position Modifier]
+2.[Tonsillectomy] ","{1: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Tonsillectomy']}","{1: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Tonsillectomy']}","1. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+2. [Tonsillectomy]"
+28.0,10.0,13.0,89.0,53.0,81.0,11.879206927763942,2,21.0,13.0,2,1.0,3.0,3.0,1,3,2,bilate max crest,75.0,50.0,0.0,43.0,5.0,10.0,0.6613571511088768,0.3378501160565615,1,0,1,1,0,NaN ,{},{},
+28.5,32.0,82.0,92.0,15.0,64.0,15.185388593731217,13.5,0.0,4.0,2,3.0,2.0,2.0,1,2,pale,R max crest Plus,75.0,50.0,0.0,43.0,3.0,10.0,0.6675760257096711,0.3319135694519626,2,1,2,1,0,"1.[Weight Loss][Rhinitis Rx as Avamys and saline douche - Sinurinse][Sleep on side]
+2.[Tonsillectomy] [Barbed Suture][Procut Palatoplasty (anterior / inferior)]
+When BMI <30 or <32 if poor CPAP compliance","{1: ['Weight Loss', 'Rhinitis Rx as Avamys and saline douche - Sinurinse', 'Sleep on side'], 2: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty (anterior / inferior)']}","{1: ['Weight Loss', 'Rhinitis Rx as Avamys and saline douche - Sinurinse', 'Sleep on side'], 2: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty']}","1. [Sleep Position Modifier] [Weight Loss]
+2. [Barbed Suture] [Chinstrap] [Procut Palatoplasty] [Tonsillectomy]
+3. [RF turbinates + outfracture] [Septoplasty]
+4. [Procut Palatoplasty] [RF BOT]"
+27.5,26.0,32.0,94.0,5.0,81.0,17.452040420804845,11.478632115085883,22.0,17.0,2,2.5,2.0,2.5,1,long thick,mild,0,75.0,50.0,0.0,43.0,2.0,10.0,57,0.321110050445742,2,2,0,1,0,"1.[Rhinitis Rx][MAD][Allergy Testing]
+2.[Tonsillectomy] [Procut Palatoplasty] [Barbed Suture]
+3.[RF BOT] [RF turbinates]","{1: ['Rhinitis Rx', 'MAD', 'Allergy Testing'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'Barbed Suture'], 3: ['RF BOT', 'RF turbinates']}","{1: ['Rhinitis Rx', 'Mandibular Advancement Device', 'Allergy Testing'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'Barbed Suture'], 3: ['RF BOT', 'RF turbinates']}","1. [Allergy Testing] [Mandibular Advancement Device] [Rhinitis Rx]
+2. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]
+3. [Lingual Tonsil Reduction] [RF BOT] [RF turbinates]"
+25.0,14.0,44.0,94.0,9.0,81.0,14.609938712607097,10.125801473178315,20.0,12.0,4,3.0,2.5,3.0,1,m,1,R2Plus,75.0,50.0,0.0,43.0,5.0,10.0,42,0.3662135952957974,1,0,1,0,0,"1.[Rhinitis Rx]
+2.[RF Palate][Procut Palatoplasty][2nd stage surgery]","{1: ['Rhinitis Rx'], 2: ['RF Palate', 'Procut Palatoplasty', '2nd stage surgery']}","{1: ['Rhinitis Rx'], 2: ['RF Palate', 'Procut Palatoplasty', '2nd stage surgery']}","1. [Rhinitis Rx]
+2. [Procut Palatoplasty] [RF Palate]"
+25.0,18.0,18.0,95.0,1.0,83.0,15.775903728457102,9,3.0,3.0,1,0.5,2.0,2.0,2,4,mild,0,75.0,50.0,0.0,43.0,5.0,0.0,0.6241510652842609,0.3752805559975404,2,1,1,0,0,"1.[Mandibular Advancement Device] +/-  [Chinstrap] [Sleep Position Modifier]
+2.[Tonsillectomy] [Procut Palatoplasty (anterior / inferior)][RF turbinates + outfracture] ","{1: ['Mandibular Advancement Device', 'Chinstrap', 'Sleep Position Modifier'], 2: ['Tonsillectomy', 'Procut Palatoplasty (anterior / inferior)', 'RF turbinates + outfracture']}","{1: ['Mandibular Advancement Device', 'Chinstrap', 'Sleep Position Modifier'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF turbinates + outfracture']}","1. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+2. [Procut Palatoplasty] [RF turbinates + outfracture] [Sleep Position Modifier] [Tonsillectomy]"
+24.0,33.0,41.0,90.0,10.5,73.5,15.643752121945816,4,2.0,0.0,3,2.0,1.0,1.5,2,3,1,R2Plus,75.0,50.0,0.0,43.0,5.0,10.0,0.6086697708973589,0.3887656526000392,1,2,1,1,0,"1.[Tonsillectomy] +/- [Procut Palatoplasty (anterior / inferior)]
+2.[Lingual Tonsil Reduction - coblation]
+3.[Sleep with closed mouth] [Sleep Position Modifier]
+4.Continue rhinitis therapy if effective","{1: ['Tonsillectomy', 'Procut Palatoplasty (anterior / inferior)'], 2: ['Lingual Tonsil Reduction - coblation'], 3: ['Sleep with closed mouth', 'Sleep Position Modifier'], 4: []}","{1: ['Tonsillectomy', 'Procut Palatoplasty'], 2: ['Lingual Tonsil Reduction'], 3: ['Sleep with closed mouth', 'Sleep Position Modifier'], 4: []}",2. [Lingual Tonsil Reduction] [Procut Palatoplasty] [Tonsillectomy]
+19.5,16.5,15.0,94.0,5.0,75.0,18.878046792641,7,17.0,8.0,2,1.0,2.0,2.0,1,4 tapering,pale,L max crest Plus,75.0,50.0,0.0,43.0,5.0,10.0,0.6910286517522652,0.3020518703482659,2,0,2,2,0,"1.[Chinstrap] +/-  [Mandibular Advancement Device] then [+rpt sleep study]
+2.[Lingual Tonsil Reduction - coblation]+/- [RF BOT]","{1: ['Chinstrap', 'Mandibular Advancement Device', '+rpt sleep study'], 2: ['Lingual Tonsil Reduction - coblation', 'RF BOT']}","{1: ['Chinstrap', 'Mandibular Advancement Device', '+rpt sleep study'], 2: ['Lingual Tonsil Reduction', 'RF BOT']}","1. [+rpt sleep study] [Chinstrap] [Mandibular Advancement Device]
+2. [Lingual Tonsil Reduction] [RF BOT] [RF turbinates]"
+26.0,31.0,44.0,92.8,10.5,73.5,15.098146587931728,10.230105333724504,29.0,19.0,2,1.5,2.0,2.0,0,n,mod red cobblestone,0,75.0,50.0,0.0,43.0,5.0,11.0,??,0.3553657899696151,2,0,1,2,0,"1.[Rhinitis Rx] +/- allergy clinic  [Sleep Position Modifier][Mandibular advancement device]
+2.[+rpt sleep study] in three months – order in OPD please. GP to consider CBTi
+3.[Barbed Suture]","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Mandibular advancement device'], 2: ['+rpt sleep study'], 3: ['Barbed Suture']}","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Mandibular Advancement Device'], 2: ['+rpt sleep study'], 3: ['Barbed Suture']}","1. [Mandibular Advancement Device] [Rhinitis Rx] [Sleep Position Modifier]
+2. [+rpt sleep study]
+3. [Barbed Suture]"
+24.0,34.4,34.8,90.0,46.0,76.0,15.643752121945816,10.584849971642013,0.0,0.0,1,0.0,2.5,3.0,1,3,no,"? R columella disloc, overriding septum to right",75.0,50.0,0.0,43.0,3.0,10.0,27,0.3887656526000392,1,0,0,1,0,"1.[Chinstrap][MAD]
+2.[RF Palate][Procut Palatoplasty] ","{1: ['Chinstrap', 'MAD'], 2: ['RF Palate', 'Procut Palatoplasty']}","{1: ['Chinstrap', 'Mandibular Advancement Device'], 2: ['RF Palate', 'Procut Palatoplasty']}","1. [Chinstrap] [Mandibular Advancement Device]
+2. [Procut Palatoplasty] [RF Palate]"
+29.0,40.0,61.0,91.0,16.0,75.0,13.79760647099759,7,12.0,14.0,2,2.5,2.0,2.5,2,2,1 pale,R2Plus,75.0,50.0,0.0,43.0,5.0,10.0,0.6513838663605065,0.3461780444101849,2,2,0,2,0,"1.[Weight Loss][Rhinitis Rx][CBTi][Sleep Position Modifier][continue CPAP]
+2.[Tonsillectomy][Barbed Suture][Lingual Tonsil Reduction - coblation] +/- [RF BOT]","{1: ['Weight Loss', 'Rhinitis Rx', 'CBTi', 'Sleep Position Modifier', 'continue CPAP'], 2: ['Tonsillectomy', 'Barbed Suture', 'Lingual Tonsil Reduction - coblation', 'RF BOT']}","{1: ['Weight Loss', 'Rhinitis Rx', 'CBTi', 'Sleep Position Modifier', 'CPAP'], 2: ['Tonsillectomy', 'Barbed Suture', 'Lingual Tonsil Reduction', 'RF BOT']}","1. [CBTi] [CPAP] [Rhinitis Rx] [Sleep Position Modifier] [Weight Loss]
+2. [Barbed Suture] [Lingual Tonsil Reduction] [RF BOT] [Tonsillectomy]"
+23.0,41.0,47.0,90.0,32.0,59.0,16.129012931154318,10.90946870201384,15.0,5.0,3,1.0,2.0,2.0,2,L,2,L2 obst,75.0,50.0,0.0,43.0,5.0,10.0,23,0.3825824702323762,1,1,1,2,0,"1.[Rhinitis Rx][? Allergy Testing result] [CT Sinus’][Restart / continue CPAP]
+2.[RF turbinates] [Septoplasty]
+3.Repeat DISE + [RF BOT] [Lingual Tonsil Reduction] +/- [Barbed Suture] [Tonsillectomy]
+4.[Hypoglossal N. Stimulator]","{1: ['Rhinitis Rx', '? Allergy Testing result', 'CT Sinus’', 'Restart / continue CPAP'], 2: ['RF turbinates', 'Septoplasty'], 3: ['RF BOT', 'Lingual Tonsil Reduction', 'Barbed Suture', 'Tonsillectomy'], 4: ['Hypoglossal N. Stimulator']}","{1: ['Rhinitis Rx', '? Allergy Testing result', 'CT Sinus’', 'CPAP'], 2: ['RF turbinates', 'Septoplasty'], 3: ['RF BOT', 'Lingual Tonsil Reduction', 'Barbed Suture', 'Tonsillectomy'], 4: ['Hypoglossal N. Stim']}","1. [Chinstrap] [Mandibular Advancement Device] [PPI Trial] [Rhinitis Rx]
+2. [RF BOT]"
+28.0,41.0,54.0,89.0,45.0,58.0,11.879206927763942,7.787452909327863,3.0,0.0,1,1.0,1.5,2.0,3,L,oedema,L2PlusPlus / L max crest,75.0,50.0,0.0,43.0,4.0,10.0,20,0.3378501160565615,2,2,0,1,0,"1.[Rhinitis Rx][Sleep Position Modifier][Allergy Testing requested][NIPF in OPD]
+2.[Tonsillectomy][Procut Palatoplasty] then rpt sleep study at 3/12
+3.[RF turbinates][Septoplasty] +/- RF Palate","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Allergy Testing requested', 'NIPF in OPD'], 2: ['Tonsillectomy', 'Procut Palatoplasty'], 3: ['RF turbinates', 'Septoplasty']}","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Allergy Testing requested', 'NIPF in OPD'], 2: ['Tonsillectomy', 'Procut Palatoplasty'], 3: ['RF turbinates', 'Septoplasty']}","1. [Rhinitis Rx] [Sleep Position Modifier]
+2. [Procut Palatoplasty] [Tonsillectomy]
+3. [RF turbinates] [Septoplasty]"
+27.0,42.0,60.0,92.0,18.0,73.5,15.791114845713569,4,28.0,14.0,1,0.0,1.0,2.0,2,3,2,L max crest spur,75.0,50.0,0.0,43.0,5.0,11.0,0.6482190303713797,0.3517636197543736,2,1,1,1,1,"1.[Rhinitis Rx]  drops + spray + douche [Chinstrap]    [Mandibular Advancement Device for snoring][Sleep Position Modifier]
+2.[Tonsillectomy] [Barbed Suture] [Procut Palatoplasty (anterior / inferior)]
+3.[RF turbinates + outfracture] ","{1: ['Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device for snoring', 'Sleep Position Modifier'], 2: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty (anterior / inferior)'], 3: ['RF turbinates + outfracture']}","{1: ['Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty'], 3: ['RF turbinates + outfracture']}","1. [Chinstrap] [Mandibular Advancement Device] [Rhinitis Rx] [Sleep Position Modifier]
+2. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]
+3. [RF turbinates + outfracture]"
+25.3,23.6,54.0,93.0,7.6,71.0,14.966554618094449,10.263937152573646,16.0,10.0,2,1.0,1.5,2.0,1,L,2 red,0,75.0,50.0,0.0,43.0,4.0,10.0,63,0.3644136025563194,2,1,1,2,0,"1.Continue [Rhinitis Rx] [PPI ]
+2.[MAD] [Sleep Position Modifier] + reassess with snore lab / partner / Sleep Study
+3.[Tonsillectomy] [Lingual Tonsil Reduction] [Barbed Suture]
+4.[RF BOT]  [RF turbinates]
+5.Needs to complete sleep Questionnaire","{1: ['Rhinitis Rx', 'PPI'], 2: ['MAD', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Lingual Tonsil Reduction', 'Barbed Suture'], 4: ['RF BOT', 'RF turbinates'], 5: []}","{1: ['Rhinitis Rx', 'PPI'], 2: ['Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Lingual Tonsil Reduction', 'Barbed Suture'], 4: ['RF BOT', 'RF turbinates'], 5: []}","1. [Rhinitis Rx]
+2. [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Barbed Suture] [Lingual Tonsil Reduction] [Tonsillectomy]
+4. [RF BOT]"
+33.0,81.0,44.0,91.0,36.0,70.0,14.2615720536245,1,8.0,6.0,1,2.0,2.0,2.0,1,3,pale wet,0,75.0,50.0,0.0,43.0,5.0,10.0,0.619715678499479,0.3800941262210541,1,0,1,2,1,"1.[Weight Loss][Rhinitis Rx] 
+2.[Chinstrap]    [Mandibular Advancement Device] trials
+3.[RF BOT] [epiglottopexy]
+4.[Hypoglossal N. Stim]","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Chinstrap', 'Mandibular Advancement Device'], 3: ['RF BOT', 'epiglottopexy'], 4: ['Hypoglossal N. Stim']}","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Chinstrap', 'Mandibular Advancement Device'], 3: ['RF BOT', 'epiglottopexy'], 4: ['Hypoglossal N. Stim']}","1. [+rpt sleep study] [CBTi] [Weight Loss]
+3. [MDT] [Procut Palatoplasty]"
+31.0,31.0,46.0,94.0,6.0,80.0,18.01185439478442,9,42.0,20.0,2,0.0,1.0,1.0,0,1,1 mucus strings,0,75.0,50.0,0.0,43.0,5.0,4.0,0.689048716274188,0.3100605884534343,1,0,1,2,0,"1.[Weight Loss][PPI Trial] ? Nystatin
+2.? [Mandibular Advancement Device][Sleep Position Modifier]
+3.[Lingual Tonsil Reduction - coblation]
+4.[MDT][Hypoglossal N. Stim]","{1: ['Weight Loss', 'PPI Trial'], 2: ['Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Lingual Tonsil Reduction - coblation'], 4: ['MDT', 'Hypoglossal N. Stim']}","{1: ['Weight Loss', 'PPI Trial'], 2: ['Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Lingual Tonsil Reduction'], 4: ['MDT', 'Hypoglossal N. Stim']}","1. [PPI Trial] [Weight Loss]
+2. [+rpt sleep study] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Lingual Tonsil Reduction]
+4. [Hypoglossal N. Stim] [MDT]"
+28.0,17.0,44.0,92.0,20.0,70.0,15.258030536031889,10.06152707433954,5.0,15.0,3,2.0,2.0,2.5,2,L,1,depressed R nasal boneDNS bilateral in area 2 PlusPlus,75.0,50.0,0.0,43.0,6.0,10.0,40,0.3440769671900371,1,1,0,1,0,"1.[Weight Loss][Rhinitis Rx][PPI Trial][Chinstrap][MAD]
+2.[Barbed Suture][Tonsillectomy][Procut Palatoplasty]
+3.[RF turbinates][Septoplasty]","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'Chinstrap', 'MAD'], 2: ['Barbed Suture', 'Tonsillectomy', 'Procut Palatoplasty'], 3: ['RF turbinates', 'Septoplasty']}","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'Chinstrap', 'Mandibular Advancement Device'], 2: ['Barbed Suture', 'Tonsillectomy', 'Procut Palatoplasty'], 3: ['RF turbinates', 'Septoplasty']}","1. [Chinstrap] [Mandibular Advancement Device] [PPI Trial] [Rhinitis Rx] [Weight Loss]
+2. [Barbed Suture] [Procut Palatoplasty] [RF Palate] [Tonsillectomy]
+3. [RF turbinates] [Septoplasty]"
+25.0,31.3,37.0,92.7,10.0,80.0,14.41427920225926,9.601941420125142,7.0,5.0,1,0.0,1.0,2.0,2,L,1,spur Plusdeviaition left side,75.0,50.0,0.0,43.0,6.0,3.0,28,0.3437143071207525,2,0,0,2,0,"1.[Rhinitis therapy] + douche[Chinstrap][Mandibular advancement device]
+2.[Sleep Position Modifier] bumbag / rucksack [chase Allergy Testing] [CBTi]
+3.[Procut Palatoplasty]  [RF turbinates][RF BOT][Septoplasty] – can be staged
+4.[TORS] after rpt sleep study","{1: ['Rhinitis therapy', 'Chinstrap', 'Mandibular advancement device'], 2: ['Sleep Position Modifier', 'chase Allergy Testing', 'CBTi'], 3: ['Procut Palatoplasty', 'RF turbinates', 'RF BOT', 'Septoplasty'], 4: ['TORS']}","{1: ['Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device'], 2: ['Sleep Position Modifier', 'chase Allergy Testing', 'CBTi'], 3: ['Procut Palatoplasty', 'RF turbinates', 'RF BOT', 'Septoplasty'], 4: ['TORS']}","1. [Chinstrap] [Mandibular Advancement Device] [Rhinitis Rx] [Sleep Position Modifier]
+2. [RF turbinates + outfracture] [Sleep Position Modifier] [Tonsillectomy]
+3. [Procut Palatoplasty] [RF BOT] [RF turbinates] [Septoplasty]"
+29.0,39.2,57.0,91.8,36.3,65.0,14.22371134129217,9.32846299911301,2.0,0.0,1,1.0,2.0,2.0,1,m,1,0,75.0,50.0,0.0,43.0,3.0,20.0,20,0.3313384900359082,1,2,0,2,0,"1.[MAD] with SnoreLab, Vitamin D supplements, steroid spray in hayfever season.
+2.[Tonsillectomy]+/- [Barbed Suture]
+3.[Lingual Tonsil Reduction] ","{1: ['MAD'], 2: ['Tonsillectomy', 'Barbed Suture'], 3: ['Lingual Tonsil Reduction']}","{1: ['Mandibular Advancement Device'], 2: ['Tonsillectomy', 'Barbed Suture'], 3: ['Lingual Tonsil Reduction']}","1. [Mandibular Advancement Device]
+2. [Barbed Suture] [Tonsillectomy]
+3. [Lingual Tonsil Reduction]"
+28.0,25.0,70.0,95.0,2.0,83.0,17.883178330723343,11.968241557908188,14.0,15.0,3,2.0,1.0,2.0,1,2,red alt obst,0,75.0,50.0,0.0,43.0,5.0,10.0,29,0.323305382450437,1,0,2,2,0/1,"1.[Weight Loss] [Rhinitis Rx [Sleep Hygiene]  [CBTi]
+2.[Mandibular Advancement Device] + [Chinstrap]   [Sleep Position Modifier]
+3.[RF turbinates + outfracture] [RF BOT] [Lingual Tonsil Reduction - coblation]
+4.[MDT] after repeat SS and DISE then choice of
+• [Tonsillectomy] [Barbed Suture]
+• [TORS] [Orthognathic Surgery] [Hypoglossal N. Stim]
+• [Restart / continue CPAP][+rpt sleep study]","{1: ['Weight Loss', 'Rhinitis Rx [Sleep Hygiene', 'CBTi'], 2: ['Mandibular Advancement Device', 'Chinstrap', 'Sleep Position Modifier'], 3: ['RF turbinates + outfracture', 'RF BOT', 'Lingual Tonsil Reduction - coblation'], 4: ['MDT', 'Tonsillectomy', 'Barbed Suture', 'TORS', 'Orthognathic Surgery', 'Hypoglossal N. Stim', 'Restart / continue CPAP', '+rpt sleep study']}","{1: ['Weight Loss', 'Rhinitis Rx [Sleep Hygiene', 'CBTi'], 2: ['Mandibular Advancement Device', 'Chinstrap', 'Sleep Position Modifier'], 3: ['RF turbinates + outfracture', 'RF BOT', 'Lingual Tonsil Reduction'], 4: ['MDT', 'Tonsillectomy', 'Barbed Suture', 'TORS', 'Orthognathic Surgery', 'Hypoglossal N. Stim', 'CPAP', '+rpt sleep study']}","1. [CBTi] [Weight Loss]
+2. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Lingual Tonsil Reduction] [RF BOT] [RF turbinates + outfracture]
+4. [Barbed Suture] [Hypoglossal N. Stim] [MDT] [Tonsillectomy]"
+29.5,65.0,52.0,87.0,10.5,62.0,12.806032508360596,0,3.0,2.0,1,3.0,2.0,3.0,3,3,1,L max crest,75.0,50.0,0.0,43.0,5.0,10.0,0.6595206621772909,0.3411423953091625,0,2,0,0,0,"1.[Weight Loss] [?Allergy Testing]
+2.[Tonsillectomy] [Procut Palatoplasty (anterior < inferior)]","{1: ['Weight Loss', '?Allergy Testing'], 2: ['Tonsillectomy', 'Procut Palatoplasty (anterior < inferior)']}","{1: ['Weight Loss', '?Allergy Testing'], 2: ['Tonsillectomy', 'Procut Palatoplasty (anterior < inferior)']}","1. [+rpt sleep study] [CPAP] [Rhinitis Rx] [Sleep Hygiene] [Weight Loss]
+2. [Allergy Testing] [Tonsillectomy]
+3. [Procut Palatoplasty]
+4. [Lingual Tonsil Reduction]"
+28.0,22.6,44.0,93.0,10.5,73.5,15.811942181945325,10.535346978341359,32.0,20.0,2,1.0,2.0,2.5,2,3,wet hypertrophic,bilat max crests,75.0,50.0,0.0,43.0,6.0,10.0,14,0.3324984251952269,1,2,0,0,0,1.[Rhinitis Rx][PPI Trial],"{1: ['Rhinitis Rx', 'PPI Trial']}","{1: ['Rhinitis Rx', 'PPI Trial']}",1. [PPI Trial] [Rhinitis Rx]
+31.0,31.0,47.0,95.0,8.0,76.0,20.634426428841223,2.5,2.0,8.0,0,0.0,2.0,2.5,2,3,0,R1PlusPlusPlus / L2PlusPlus,75.0,50.0,0.0,43.0,5.0,13.0,0.0,0.311378290109069,1,0,1,2,1,"1.[Weight Loss]  [Chinstrap] +/- [Mandibular Advancement Device][Sleep Position Modifier]
+2.[Lingual Tonsil Reduction - coblation] +/- [RF BOT] then rpt SS and NIPF
+3.?[Septoplasty] [RF turbinates + outfracture]
+4.[MDT] [Hypoglossal N. Stim]","{1: ['Weight Loss', 'Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Lingual Tonsil Reduction - coblation', 'RF BOT'], 3: ['Septoplasty', 'RF turbinates + outfracture'], 4: ['MDT', 'Hypoglossal N. Stim']}","{1: ['Weight Loss', 'Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Lingual Tonsil Reduction', 'RF BOT'], 3: ['Septoplasty', 'RF turbinates + outfracture'], 4: ['MDT', 'Hypoglossal N. Stim']}","1. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier] [Weight Loss]
+2. [Lingual Tonsil Reduction] [Mandibular Advancement Device] [RF BOT] [Sleep Position Modifier]
+3. [RF turbinates + outfracture] [Septoplasty] [Tonsillectomy]
+4. [Hypoglossal N. Stim] [MDT]"
+29.0,25.0,40.0,92.0,11.0,75.0,16.508108888284102,10.818501852553133,12.0,8.0,2,1.0,1.0,2.0,2,L,1 / prom cycle	could not pass scope,mild left spur,75.0,50.0,0.0,43.0,4.0,3.0,21,0.3277288729724608,2,0,2,2,0,"1.[Weight Loss][MAD] - refer [Sleep Position Modifier] and rpt sleep study
+2.[Tonsillectomy] [RF BOT] [Barbed Suture][RF turbs + out#]","{1: ['Weight Loss', 'MAD', 'Sleep Position Modifier'], 2: ['Tonsillectomy', 'RF BOT', 'Barbed Suture', 'RF turbs + out#']}","{1: ['Weight Loss', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Tonsillectomy', 'RF BOT', 'Barbed Suture', 'RF turbinates + outfracture']}","1. [Mandibular Advancement Device] [Sleep Position Modifier] [Weight Loss]
+2. [Barbed Suture] [RF BOT] [RF turbinates + outfracture] [Sleep Position Modifier] [Tonsillectomy]"
+17.6,17.0,17.0,95.0,0.0,88.0,17.148019222450035,0.5,11.0,11.0,0,0.0,2.0,2.5,1,3,1 1,0,75.0,50.0,0.0,43.0,5.0,10.0,0.0,0.3208348109585405,0,0,0,1,1,"1.[Rhinitis Rx][?Chinstrap][Mandibular Advancement Device][Allergy Testing in clinic ?]
+2.[Septoplasty] [RF turbinates + outfracture] [RF BOT] [coblation Epiglottopexy]
+3.[MDT][Hypoglossal N. Stim]","{1: ['Rhinitis Rx', '?Chinstrap', 'Mandibular Advancement Device', 'Allergy Testing in clinic ?'], 2: ['Septoplasty', 'RF turbinates + outfracture', 'RF BOT', 'coblation Epiglottopexy'], 3: ['MDT', 'Hypoglossal N. Stim']}","{1: ['Rhinitis Rx', '?Chinstrap', 'Mandibular Advancement Device', 'Allergy Testing in clinic ?'], 2: ['Septoplasty', 'RF turbinates + outfracture', 'RF BOT', 'coblation Epiglottopexy'], 3: ['MDT', 'Hypoglossal N. Stim']}","1. [Chinstrap] [Mandibular Advancement Device] [Rhinitis Rx]
+2. [RF BOT] [RF turbinates + outfracture] [Septoplasty]
+3. [Hypoglossal N. Stim] [MDT] [RF turbinates + outfracture]"
+33.0,15.0,21.0,93.0,3.0,78.0,16.344848700705473,10.882838430300385,4.0,8.0,1,1.0,2.0,2.0,2,moderate,2 right OMC polyp,0,75.0,0.0,25.0,43.0,3.0,1.0,88,0.3483670332145482,2,0,0,1,0,"1.[Weight Loss][Rhinitis Rx]
+2.[Procut Palatoplasty][Barbed Suture]","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Procut Palatoplasty', 'Barbed Suture']}","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Procut Palatoplasty', 'Barbed Suture']}","1. [Rhinitis Rx] [Weight Loss]
+2. [Barbed Suture] [Procut Palatoplasty]"
+30.0,8.5,16.4,93.0,7.0,85.0,16.30274523988621,11.000829134325947,14.0,15.0,2,0.0,2.0,3.0,0,n,1 prominent cycle,tight left side,75.0,50.0,0.0,43.0,3.0,16.0,82,0.3153721793165686,1,0,1,0,0,"1.[Weight Loss][Rhinitis Rx][Myofunct. Therapy]
+2.[Chinstrap][MAD][Sleep Position Modifier]","{1: ['Weight Loss', 'Rhinitis Rx', 'Myofunct. Therapy'], 2: ['Chinstrap', 'MAD', 'Sleep Position Modifier']}","{1: ['Weight Loss', 'Rhinitis Rx', 'Myofunct. Therapy'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier']}","1. [CBTi]
+2. [RF Palate] [RF turbinates]"
+48.0,53.0,49.0,83.0,78.0,50.0,14.375276081327796,9.566464798315753,23.0,19.0,2,2.0,2.0,2.0,3,3,1,"L4PlusPlusPlus, R2Plus",75.0,50.0,0.0,43.0,6.0,10.0,18,0.3998661642385575,2,2,0,0,0,"1.[Weight Loss] [PPI Trial]
+2.[Restart / continue CPAP]
+3.[? Bariatric surgery through GP]","{1: ['Weight Loss', 'PPI Trial'], 2: ['Restart / continue CPAP'], 3: ['? Bariatric surgery through GP']}","{1: ['Weight Loss', 'PPI Trial'], 2: ['CPAP'], 3: ['? Bariatric surgery through GP']}",1. [PPI Trial] [Weight Loss]
+29.0,20.0,28.0,92.0,10.0,80.0,17.50641030785442,11,5.0,17.0,0,0.0,2.0,2.0,3,2,2,0,75.0,50.0,0.0,43.0,3.0,10.0,0.0,0.3297396548793953,1,2,0,1,0,"1.[Side Sleeping][Weight Loss][Rhinitis Rx] [saline douche]
+2.[Myofunct. Therapy for snoring] [?Chinstrap] [CBTi]
+3.[Tonsillectomy] + rpt sleep study ","{1: ['Side Sleeping', 'Weight Loss', 'Rhinitis Rx', 'saline douche'], 2: ['Myofunct. Therapy for snoring', '?Chinstrap', 'CBTi'], 3: ['Tonsillectomy']}","{1: ['Side Sleeping', 'Weight Loss', 'Rhinitis Rx', 'saline douche'], 2: ['Myofunct. Therapy for snoring', '?Chinstrap', 'CBTi'], 3: ['Tonsillectomy']}","1. [Rhinitis Rx] [Weight Loss]
+3. [Tonsillectomy]"
+24.0,20.0,38.0,92.0,11.0,83.0,16.894908925059923,11.392774460607873,1.0,0.0,2,1.0,2.0,2.0,I-II,n,mod,"Multiple, narrow airway bilat",75.0,50.0,0.0,43.0,3.0,2.0,66,0.3869446132792462,2,2,0,1,1 at rest,"1.[Rhinitis Rx][Chinstrap][MAD] with nasal CPAP – check remote on F/U
+[Sleep Position Modifier] [RAST / D Testing] -to do on DSU
+2.[Tonsillectomy] [Procut Palatoplasty] [RF turbinates + outfracture]
+3.[Expansion Sphincteroplasty] if nose is clear otherwise [Septoplasty] first","{1: ['Rhinitis Rx', 'Chinstrap', 'MAD', 'Sleep Position Modifier', 'RAST / D Testing'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF turbinates + outfracture'], 3: ['Expansion Sphincteroplasty', 'Septoplasty']}","{1: ['Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier', 'RAST / D Testing'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF turbinates + outfracture'], 3: ['Expansion Sphincteroplasty', 'Septoplasty']}","1. [Chinstrap] [Mandibular Advancement Device] [Rhinitis Rx] [Sleep Position Modifier]
+2. [Procut Palatoplasty] [RF turbinates + outfracture] [Tonsillectomy]
+3. [Septoplasty]"
+25.0,14.0,41.0,95.0,1.0,85.0,15.775903728457102,2,7.0,10.0,2,1.0,2.0,2.0,1,3 broad,mild,more space on left,75.0,50.0,0.0,43.0,3.0,10.0,0.6241510652842609,0.3752805559975404,2,1,1,1,0,"1.[Rhinitis (drops + spray) + thrush Rx] 
+2.[Chinstrap]    [Mandibular Advancement Device][Sleep Position Modifier]
+3.[Procut Palatoplasty (anterior / inferior)] [RF BOT]
+[?Septoplasty] [RF turbinates + outfracture] after NIPF in clinic
+Check printed DISE in notes also as AMH 1F","{1: ['Rhinitis (drops + spray) + thrush Rx'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Procut Palatoplasty (anterior / inferior)', 'RF BOT', '?Septoplasty', 'RF turbinates + outfracture']}","{1: ['Rhinitis (drops + spray) + thrush Rx'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Procut Palatoplasty', 'RF BOT', '?Septoplasty', 'RF turbinates + outfracture']}","2. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Procut Palatoplasty] [RF BOT] [RF turbinates + outfracture]"
+30.0,32.0,57.0,95.0,5.0,74.0,16.992483781495825,3,0.0,11.0,1,2.0,1.5,1.5,1,2,2 sticky mucus,prominent max crests,75.0,50.0,0.0,43.0,5.0,10.0,0.6874705752140834,0.3142245986451329,2,2,1,2,1,"1.[Weight Loss][Rhinitis Rx – dymista + douche - continue]  [Vit D supplement]
+2.[Chinstrap]+[Mandibular Advancement Device – did not try previously][Sleep on side]
+3.[RF turbinates + outfracture - assess in OPD]
+4.+/- [Tonsillectomy]+/-[Barbed Suture] with repeat DISE","{1: ['Weight Loss', 'Rhinitis Rx – dymista + douche - continue', 'Vit D supplement'], 2: ['Chinstrap', 'Mandibular Advancement Device – did not try previously', 'Sleep on side'], 3: ['RF turbinates + outfracture - assess in OPD'], 4: ['Tonsillectomy', 'Barbed Suture']}","{1: ['Weight Loss', 'Rhinitis Rx – dymista + douche - continue', 'Vit D supplement'], 2: ['Chinstrap', 'Mandibular Advancement Device – did not try previously', 'Sleep on side'], 3: ['RF turbinates + outfracture - assess in OPD'], 4: ['Tonsillectomy', 'Barbed Suture']}","1. [Weight Loss]
+2. [Chinstrap] [Mandibular Advancement Device]
+3. [RF turbinates + outfracture]
+4. [Barbed Suture] [Tonsillectomy]"
+27.0,66.0,63.0,90.0,38.0,73.0,12.91194445458096,1,21.0,17.0,1,1.0,1.0,2.0,3,3,wet 2,Lmaxillary crest overriding,75.0,50.0,0.0,43.0,5.0,10.0,0.6517335611361808,0.345969901092076,1,2,0,1+,1,"1.[Rhinitis Rx]  [Chinstrap]    [Mandibular Advancement Device] [Allergy Testing in clinic]
+2.[Tonsillectomy] [Procut Palatoplasty (anterior / inferior)]
+3.[Septoplasty] [RF turbinates + outfracture]
++/-[Lingual Tonsil Reduction + Epiglottopexy - coblation] +/- [RF BOT] ","{1: ['Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device', 'Allergy Testing in clinic'], 2: ['Tonsillectomy', 'Procut Palatoplasty (anterior / inferior)'], 3: ['Septoplasty', 'RF turbinates + outfracture', 'Lingual Tonsil Reduction + Epiglottopexy - coblation', 'RF BOT']}","{1: ['Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device', 'Allergy Testing in clinic'], 2: ['Tonsillectomy', 'Procut Palatoplasty'], 3: ['Septoplasty', 'RF turbinates + outfracture', 'Lingual Tonsil Reduction + Epiglottopexy - coblation', 'RF BOT']}","1. [Chinstrap] [Mandibular Advancement Device] [Rhinitis Rx]
+2. [Procut Palatoplasty] [Tonsillectomy]
+3. [RF BOT] [RF turbinates + outfracture] [Septoplasty]"
+28.5,33.0,40.0,92.0,95.0,71.0,15.185388593731217,3,11.0,13.0,2,1.0,2.0,3.0,2,3,pale,max crest spur to Left,75.0,50.0,0.0,47.0,5.0,10.0,0.6675760257096711,0.3319135694519626,1,1,1,2,0/1,"1.[Mandibular Advancement Device Trial]
+2.continue [Weight Loss][Rhinitis Rx][Sleep Position Modifier][CPAP]
+3.[RF BOT] [Lingual Tonsil Reduction - coblation] [RF turbinates + outfracture]
+4.[Hypoglossal N. Stim]","{1: ['Mandibular Advancement Device Trial'], 2: ['Weight Loss', 'Rhinitis Rx', 'Sleep Position Modifier', 'CPAP'], 3: ['RF BOT', 'Lingual Tonsil Reduction - coblation', 'RF turbinates + outfracture'], 4: ['Hypoglossal N. Stim']}","{1: ['Mandibular Advancement Device'], 2: ['Weight Loss', 'Rhinitis Rx', 'Sleep Position Modifier', 'CPAP'], 3: ['RF BOT', 'Lingual Tonsil Reduction', 'RF turbinates + outfracture'], 4: ['Hypoglossal N. Stim']}","1. [Mandibular Advancement Device]
+2. [Rhinitis Rx] [Sleep Position Modifier] [Weight Loss]
+3. [Lingual Tonsil Reduction] [RF BOT] [RF turbinates + outfracture]
+4. [Hypoglossal N. Stim]"
+25.7,43.0,78.0,93.5,9.1,73.0,14.989145056309056,10.273900774701906,0.0,12.0,2,2.0,1.0,2.0,1,L,1 mucus strings red,0,75.0,50.0,0.0,43.0,3.0,15.0,16.6,0.3598069285749952,2,1,1,2,0,"1.[Rhinitis Rx]
+2.[Tonsillectomy] [RF turbinates] [Barbed Suture] [ anterior Procut Palatoplasty][+rpt SS]
+3.[Lingual Tonsil Reduction]","{1: ['Rhinitis Rx'], 2: ['Tonsillectomy', 'RF turbinates', 'Barbed Suture', 'anterior Procut Palatoplasty', '+rpt SS'], 3: ['Lingual Tonsil Reduction']}","{1: ['Rhinitis Rx'], 2: ['Tonsillectomy', 'RF turbinates', 'Barbed Suture', 'anterior Procut Palatoplasty', '+rpt SS'], 3: ['Lingual Tonsil Reduction']}","1. [Rhinitis Rx]
+2. [Barbed Suture] [RF turbinates] [Tonsillectomy]
+3. [Lingual Tonsil Reduction]"
+26.0,31.0,44.0,93.0,15.0,77.0,15.037619283640783,10.263551421793009,21.0,20.0,3,3.0,3.0,2.0,02-Mar,L,mild,1,75.0,50.0,0.0,43.0,5.0,9.0,0?,0.3642370007735452,2,2,0,0,0,"1.revision Septoplasty + turbinate reduction + tonsillectomy + palatoplasty + barbed suture
+2.[Weight Loss] [continue CPAP] [+rpt sleep study in 3 months]","{1: [], 2: ['Weight Loss', 'continue CPAP', '+rpt sleep study in 3 months']}","{1: [], 2: ['Weight Loss', 'CPAP', '+rpt sleep study in 3 months']}","1. [PPI Trial] [Rhinitis Rx]
+2. [Barbed Suture] [RF turbinates + outfracture] [Septoplasty] [Tonsillectomy]
+3. [Barbed Suture] [Tonsillectomy]"
+30.0,20.0,26.0,95.0,3.0,0.0,16.992483781495825,11.571154284891195,14.0,16.0,2,2.0,1.0,2.0,0,n,red 1,0,75.0,50.0,0.0,43.0,2.0,7.0,40,0.3142245986451329,2,0,1,1,0,"1.[Weight Loss][Myofunctional Therapy for snoring][MAD][Sleep Position Modifier][Allergy Testing result] [continue nose spray][antacid regimen + Gaviscon at night]
+2.[RF Palate][Procut Palatoplasty]  [Barbed Suture]","{1: ['Weight Loss', 'Myofunctional Therapy for snoring', 'MAD', 'Sleep Position Modifier', 'Allergy Testing result', 'continue nose spray', 'antacid regimen + Gaviscon at night'], 2: ['RF Palate', 'Procut Palatoplasty', 'Barbed Suture']}","{1: ['Weight Loss', 'Myofunct. Therapy', 'Mandibular Advancement Device', 'Sleep Position Modifier', 'Allergy Testing result', 'continue nose spray', 'antacid regimen + Gaviscon at night'], 2: ['RF Palate', 'Procut Palatoplasty', 'Barbed Suture']}","1. [Mandibular Advancement Device] [Myofunct. Therapy] [PPI Trial] [Sleep Position Modifier] [Weight Loss]
+2. [Barbed Suture] [Procut Palatoplasty] [RF Palate]
+3. [RF turbinates]"
+26.0,30.8,59.3,94.4,5.5,72.0,16.028206347673958,11.019622963998994,4.0,6.0,3,2.0,3.0,3.0,1,neo-short,gross oedematous,mild ant to right area 2,75.0,50.0,0.0,43.0,4.0,7.0,56.4,0.3613001878332528,2,0,0,0,0,"1.[Rhinitis Rx][Sleep Position Modifier][Allergy Testing requested in DSU]
+2.[Barbed Suture][RF turbinates]","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Allergy Testing requested in DSU'], 2: ['Barbed Suture', 'RF turbinates']}","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Allergy Testing requested in DSU'], 2: ['Barbed Suture', 'RF turbinates']}","1. [Rhinitis Rx] [Sleep Position Modifier]
+2. [Barbed Suture] [RF turbinates]"
+29.0,26.0,31.0,93.0,4.0,72.0,17.620612837955118,11.722184093391183,2.0,4.0,2,2.0,1.0,2.0,1,m,2,R2PlusPlus,50.0,75.0,0.0,43.0,3.0,6.0,89,0.3185086336343186,2,2,0,1,0,"1.[Weight Loss][Rhinitis Rx]?[PPI Trial] [MAD][Sleep Position Modifier]
+2.[Tonsillectomy] [Procut Palatoplasty]","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'MAD', 'Sleep Position Modifier'], 2: ['Tonsillectomy', 'Procut Palatoplasty']}","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Tonsillectomy', 'Procut Palatoplasty']}","1. [+rpt sleep study] [Allergy Testing] [Myofunct. Therapy] [PPI Trial] [Rhinitis Rx] [Weight Loss]
+2. [Allergy Testing] [Chinstrap] [Lingual Tonsil Reduction] [Mandibular Advancement Device] [RF BOT] [RF Palate] [RF turbinates] [RF turbinates + outfracture] [Sleep Position Modifier] [Tonsillectomy]
+3. [Lingual Tonsil Reduction] [Procut Palatoplasty] [RF BOT] [RF turbinates]
+4. [Lingual Tonsil Reduction] [RF BOT]"
+25.0,39.0,39.0,94.0,9.0,72.0,14.609938712607097,10.125801473178315,18.0,6.0,2,1.5,2.0,2.5,1,L,1,broad max crest,75.0,50.0,0.0,43.0,4.0,10.0,59,0.3662135952957974,2,0,2,2,0,"1.[Rhinitis Rx][PPI Trial][Sleep Hygiene][MAD] [Vit D]
+2.[Procut  ant Palatoplasty] [RF turbinates] +/- MAD ongoing
+3.[RF BOT] [Lingual Tonsil Reduction] DISE prior to this
+4.[Septoplasty] [Barbed Suture] [Tonsillectomy]","{1: ['Rhinitis Rx', 'PPI Trial', 'Sleep Hygiene', 'MAD', 'Vit D'], 2: ['Procut  ant Palatoplasty', 'RF turbinates'], 3: ['RF BOT', 'Lingual Tonsil Reduction'], 4: ['Septoplasty', 'Barbed Suture', 'Tonsillectomy']}","{1: ['Rhinitis Rx', 'PPI Trial', 'Sleep Hygiene', 'Mandibular Advancement Device', 'Vit D'], 2: ['Procut ant Palatoplasty', 'RF turbinates'], 3: ['RF BOT', 'Lingual Tonsil Reduction'], 4: ['Septoplasty', 'Barbed Suture', 'Tonsillectomy']}","1. [Mandibular Advancement Device] [PPI Trial] [Rhinitis Rx] [Sleep Hygiene]
+2. [RF turbinates]
+3. [Lingual Tonsil Reduction] [RF BOT]
+4. [Barbed Suture] [Tonsillectomy]"
+25.0,30.0,40.0,95.0,5.0,82.0,15.775903728457102,3,11.0,0.0,2,3.0,2.0,2.5,1,1,0,mild to left max crest to right,75.0,50.0,0.0,43.0,2.0,10.0,0.6241510652842609,0.3752805559975404,2,0,2,1,0,"1.[Mandibular Advancement Device][Sleep Position Modifier]
+2.[Tonsillectomy] [Barbed Suture] ","{1: ['Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Tonsillectomy', 'Barbed Suture']}","{1: ['Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Tonsillectomy', 'Barbed Suture']}","1. [Mandibular Advancement Device] [Myofunct. Therapy] [Sleep Hygiene] [Sleep Position Modifier]
+2. [Procut Palatoplasty]
+3. [RF BOT]
+4. [Barbed Suture] [Tonsillectomy]"
+28.5,22.0,27.0,92.0,9.0,84.0,15.185388593731217,10.024848046312064,7.0,8.0,2,1.0,2.0,2.0,1,3,3 wet,0,75.0,50.0,0.0,43.0,4.0,5.0,0.6675760257096711,0.3319135694519626,2,0,2,0,0,"1.[Weight Loss][continue rhinitis Rx] 
+2.[Chinstrap] + [Mandibular Advancement Device][Sleep Position Modifier]
+3.[RF turbinates + outfracture] if above is ineffective","{1: ['Weight Loss', 'continue rhinitis Rx'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['RF turbinates + outfracture']}","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['RF turbinates + outfracture']}","1. [Weight Loss]
+2. [Chinstrap]"
+23.0,18.0,22.0,93.0,9.0,67.0,16.476651613624085,6,13.0,13.0,1,1.0,2.0,2.0,2,2,rhinitic,L overriding PlusPlusPlus,75.0,50.0,0.0,43.0,4.0,9.0,0.6385066682606548,0.3608496658223681,2,2,1,0,0,"1.[Tonsillectomy] for OSA predominantly
+2.[Septoplasty] [RF turbinates + outfracture] ","{1: ['Tonsillectomy'], 2: ['Septoplasty', 'RF turbinates + outfracture']}","{1: ['Tonsillectomy'], 2: ['Septoplasty', 'RF turbinates + outfracture']}",2. [RF turbinates + outfracture] [Septoplasty]
+26.0,34.0,34.0,95.0,6.0,56.0,16.213123314485166,1,4.0,9.0,3,2.0,2.0,2.0,1,2,1 wet,0,75.0,50.0,0.0,43.0,3.0,10.0,0.6373180935773741,0.3626515632039321,1(2),0,2,0,0,"1.[Rhinitis Rx] flixonase + douche
+2.[rpt sleep study] – requested in theatre
+3.[Tonsillectomy] [Barbed Suture] +/- [Procut Palatoplasty (anterior / inferior)]
+4.[Lingual Tonsil Reduction - coblation] ","{1: ['Rhinitis Rx'], 2: ['rpt sleep study'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty (anterior / inferior)'], 4: ['Lingual Tonsil Reduction - coblation']}","{1: ['Rhinitis Rx'], 2: ['rpt sleep study'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty'], 4: ['Lingual Tonsil Reduction']}","1. [Myofunct. Therapy]
+4. [Lingual Tonsil Reduction]"
+31.0,34.0,31.0,90.0,37.0,61.0,13.869422325595805,9.066835248683553,7.0,5.0,3,2.5,2.5,3.0,3 (inflamed),L oedematous,moderate,0,75.0,50.0,0.0,43.0,4.0,10.0,21,0.3391868053898145,2,2,0,0,0,"1.[Weight Loss][Rhinitis Rx][PPI Trial][Allergy Testing] [MAD] after 6 weeks rhinitis therapy
+2.[Tonsillectomy] [Palatoplasty] [Barbed Suture] [Adenoidectomy] then repeat sleep study
+3.? [Lingual Tonsil Reduction] after repeat DISE +/- proceed","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'Allergy Testing', 'MAD'], 2: ['Tonsillectomy', 'Palatoplasty', 'Barbed Suture', 'Adenoidectomy'], 3: ['Lingual Tonsil Reduction']}","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'Allergy Testing', 'Mandibular Advancement Device'], 2: ['Tonsillectomy', 'Palatoplasty', 'Barbed Suture', 'Adenoidectomy'], 3: ['Lingual Tonsil Reduction']}","1. [Allergy Testing] [Mandibular Advancement Device] [PPI Trial] [Rhinitis Rx] [Weight Loss]
+2. [Barbed Suture] [Tonsillectomy]
+3. [Lingual Tonsil Reduction]"
+34.7,22.0,29.0,91.0,19.4,80.0,14.18657992466607,9.736654242371115,27.0,16.0,2,2.0,2.0,2.0,02-Mar,L,mild,Left area 2 severe,75.0,50.0,0.0,43.0,5.0,11.0,92,0.3800592878836491,2,2,0,0,0,"1.[Weight Loss][continue Rhinitis Rx][PPI Trial?]
+2.[Tonsillectomy] [Barbed Suture]  [+/-RF turbinates + out fracture][Septoplasty]","{1: ['Weight Loss', 'continue Rhinitis Rx', 'PPI Trial?'], 2: ['Tonsillectomy', 'Barbed Suture', '+/-RF turbinates + out fracture', 'Septoplasty']}","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial?'], 2: ['Tonsillectomy', 'Barbed Suture', '+/-RF turbinates + out fracture', 'Septoplasty']}","1. [PPI Trial] [Rhinitis Rx] [Weight Loss]
+2. [Barbed Suture] [Septoplasty] [Tonsillectomy]"
+23.6,24.0,37.4,94.4,7.3,76.0,16.440568430343845,11.128297466290203,13.0,9.0,3,3.0,2.0,2.5,1,L,mod red wet,"L 2PlusPlus, buckle",75.0,50.0,0.0,43.0,4.0,10.0,20,0.3766313064767353,1,0,1,2,0,"1.[Rhinitis Rx] [Sleep Position Modifier][Allergy Testing]
+2.[RF turbinates][Septoplasty] [RF Palate][Procut Palatoplasty] [chinstrap] [MAD]
+3.Repeat DISE + [Lingual Tonsil Reduction] after [rpt sleep study] at 3/12","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Allergy Testing'], 2: ['RF turbinates', 'Septoplasty', 'RF Palate', 'Procut Palatoplasty', 'chinstrap', 'MAD'], 3: ['Lingual Tonsil Reduction', 'rpt sleep study']}","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Allergy Testing'], 2: ['RF turbinates', 'Septoplasty', 'RF Palate', 'Procut Palatoplasty', 'chinstrap', 'Mandibular Advancement Device'], 3: ['Lingual Tonsil Reduction', 'rpt sleep study']}","1. [Allergy Testing] [Rhinitis Rx] [Sleep Position Modifier]
+2. [Mandibular Advancement Device] [Procut Palatoplasty] [RF Palate] [RF turbinates] [Septoplasty]
+3. [Lingual Tonsil Reduction]"
+32.5,14.5,17.1,90.0,26.0,69.0,13.27263918420453,9.246244229727887,11.0,6.0,3,2.0,2.0,3.0,1,n,1,0,75.0,50.0,0.0,43.0,5.0,10.0,1,0.3750723369363321,2,1,1,0,0,"1.[Weight Loss][Rhinitis Rx][allergy testing]
+2.[Tonsillectomy] [Procut Palatoplasty] [Barbed Suture] after weight loss to BMI <30 or closer.
+3.[RF turbinates]","{1: ['Weight Loss', 'Rhinitis Rx', 'allergy testing'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'Barbed Suture'], 3: ['RF turbinates']}","{1: ['Weight Loss', 'Rhinitis Rx', 'allergy testing'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'Barbed Suture'], 3: ['RF turbinates']}","1. [Rhinitis Rx] [Weight Loss]
+2. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]
+3. [RF turbinates]"
+33.4,49.0,54.0,91.6,22.0,78.0,14.39194120798606,9.834890995668019,13.0,10.0,3,3.0,3.0,3.0,1,1,1,mild left anterior,100.0,50.0,0.0,43.0,5.0,18.0,0.6344540672272362,0.3652124074964979,2,1,0,0,0,"1.[Weight Loss][Rhinitis Rx][Allergy Testing for given in DSU]
+2.[Barbed Suture + tonsillectomy]","{1: ['Weight Loss', 'Rhinitis Rx', 'Allergy Testing for given in DSU'], 2: ['Barbed Suture + tonsillectomy']}","{1: ['Weight Loss', 'Rhinitis Rx', 'Allergy Testing for given in DSU'], 2: ['Barbed Suture + tonsillectomy']}",1. [CBTi] [Rhinitis Rx] [Weight Loss]
+28.4,70.0,73.0,86.6,53.0,54.0,16.05656245382064,11.04239820295623,10.0,9.0,2,2.0,2.0,2.0,3,3,1,L spur mild area 2,75.0,50.0,0.0,43.0,6.0,18.0,50,0.3550019784331402,2,2,0,0,0,"1.[Weight Loss][Rhinitis Rx][PPI Trial] [Allergy Testing awaited]
+2.[Tonsillectomy] [Barbed Suture] +/- [RF turbinates] if rhinitis therapy ineffective","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'Allergy Testing awaited'], 2: ['Tonsillectomy', 'Barbed Suture', 'RF turbinates']}","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'Allergy Testing awaited'], 2: ['Tonsillectomy', 'Barbed Suture', 'RF turbinates']}","1. [PPI Trial] [Rhinitis Rx] [Weight Loss]
+2. [Barbed Suture] [RF turbinates] [Tonsillectomy]"
+31.0,67.0,84.0,90.0,31.0,67.0,13.869422325595805,9.066835248683553,7.0,8.0,2,2.0,1.5,2.0,1,3,2 wet pale,R2Plus / R spur post,75.0,50.0,0.0,43.0,4.0,3.0,51,0.3391868053898145,2,2,0,1,0,"1.[Weight Loss][Rhinitis Rx][RAST/ Vit D][Restart / continue CPAP]
+2.[Tonsillectomy] [Procut Palatoplasty] [RF BOT]
+3.[RF turbinates][Septoplasty]","{1: ['Weight Loss', 'Rhinitis Rx', 'RAST/ Vit D', 'Restart / continue CPAP'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF BOT'], 3: ['RF turbinates', 'Septoplasty']}","{1: ['Weight Loss', 'Rhinitis Rx', 'RAST/ Vit D', 'CPAP'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF BOT'], 3: ['RF turbinates', 'Septoplasty']}","1. [CPAP] [Rhinitis Rx] [Weight Loss]
+2. [Procut Palatoplasty] [RF BOT] [Tonsillectomy]
+3. [RF turbinates] [Septoplasty]"
+28.0,58.0,44.0,90.0,34.0,58.0,12.991281703920905,8.644188057701562,0.0,3.0,1,2.0,2.0,3.0,1,3,1 Pale,0,75.0,50.0,0.0,43.0,5.0,10.0,0.6493377064165835,0.3512897628889846,2,0,0,0,0,"1.[Weight Loss] aim 70kg[Rhinitis Rx] 
+2.[Mandibular Advancement Device]+/- [?Chinstrap][?Sleep Position Modifier]
+3.[Procut Palatoplasty (anterior / inferior)] + [Barbed Suture]","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Mandibular Advancement Device', '?Chinstrap', '?Sleep Position Modifier'], 3: ['Procut Palatoplasty (anterior / inferior)', 'Barbed Suture']}","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Mandibular Advancement Device', '?Chinstrap', '?Sleep Position Modifier'], 3: ['Procut Palatoplasty', 'Barbed Suture']}","1. [Rhinitis Rx] [Weight Loss]
+2. [Mandibular Advancement Device]
+3. [Barbed Suture] [Procut Palatoplasty]"
+29.5,38.0,38.0,95.0,3.5,76.0,16.524753363740608,11.271358848191683,34.0,14.0,2,2.0,2.0,2.0,2,L,?mild,L3Plus,75.0,50.0,0.0,43.0,5.0,10.0,47,0.305085618173671,2,0,0,2,0,"1.[Weight Loss][Rhinitis Rx][PPI Trial][Sleep Hygiene][Myofunct. Therapy]
+2.[Chinstrap][MAD][Sleep Position Modifier] [Allergy Testing] [+rpt sleep study]
+3.[Tonsillectomy] [RF Palate][Procut Palatoplasty] [RF BOT] [Lingual Tonsil Reduction]
+4.[RF turbinates][Septoplasty] [Barbed Suture][Adenoidectomy] [Restart / continue CPAP]","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'Sleep Hygiene', 'Myofunct. Therapy'], 2: ['Chinstrap', 'MAD', 'Sleep Position Modifier', 'Allergy Testing', '+rpt sleep study'], 3: ['Tonsillectomy', 'RF Palate', 'Procut Palatoplasty', 'RF BOT', 'Lingual Tonsil Reduction'], 4: ['RF turbinates', 'Septoplasty', 'Barbed Suture', 'Adenoidectomy', 'Restart / continue CPAP']}","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'Sleep Hygiene', 'Myofunct. Therapy'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier', 'Allergy Testing', '+rpt sleep study'], 3: ['Tonsillectomy', 'RF Palate', 'Procut Palatoplasty', 'RF BOT', 'Lingual Tonsil Reduction'], 4: ['RF turbinates', 'Septoplasty', 'Barbed Suture', 'Adenoidectomy', 'CPAP']}","1. [Myofunct. Therapy] [PPI Trial] [Rhinitis Rx] [Sleep Hygiene] [Weight Loss]
+2. [+rpt sleep study] [Allergy Testing] [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Lingual Tonsil Reduction] [Procut Palatoplasty] [RF BOT] [Tonsillectomy]
+4. [Barbed Suture]"
+30.0,18.0,25.0,95.0,3.0,78.0,16.992483781495825,11.571154284891195,0.0,7.0,1,0.0,2.0,2.0,02-Mar,Long,"red, wet",Mild left,75.0,50.0,0.0,43.0,5.0,16.0,25,0.3142245986451329,2,1,1,0,0,"1.[Rhinitis Rx] [Chinstrap] [MAD] [Weight loss]
+2.[Tonsillectomy] [Procut Palatoplasty][RF turbinates]","{1: ['Rhinitis Rx', 'Chinstrap', 'MAD', 'Weight loss'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF turbinates']}","{1: ['Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device', 'Weight loss'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF turbinates']}","1. [Chinstrap] [Mandibular Advancement Device] [Rhinitis Rx]
+2. [Procut Palatoplasty] [RF turbinates] [Tonsillectomy]"
+30.0,18.0,25.0,95.0,3.0,78.0,16.992483781495825,11.571154284891195,0.0,7.0,1,0.0,2.0,2.0,02-Mar,Long,"red, wet",Mild left,75.0,50.0,0.0,43.0,5.0,16.0,25,0.3142245986451329,2,1,1,0,0,"1.[Rhinitis Rx] [Chinstrap] [MAD] [Weight loss – more cardio than weight - ? train down]
+2.[Tonsillectomy] [Procut Palatoplasty][RF turbinates]","{1: ['Rhinitis Rx', 'Chinstrap', 'MAD', 'Weight loss – more cardio than weight - ? train down'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF turbinates']}","{1: ['Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device', 'Weight loss – more cardio than weight - ? train down'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF turbinates']}","1. [Chinstrap] [Mandibular Advancement Device] [Rhinitis Rx]
+2. [Procut Palatoplasty] [RF turbinates] [Tonsillectomy]"
+31.7,85.0,72.0,0.0,40.0,73.0,14.51572695403951,9.835926603969986,6.0,3.0,2,2.0,1.0,1.5,0,neo2,1,adhesion R nostril Plus,75.0,50.0,0.0,43.0,7.0,6.0,11,0.3844298171165661,1,0,2,1,0,"1.[Weight Loss] BMI target 25-27 Rhinitis Rx] [Sleep Hygiene] [CBTi]
+2.DISE + [RF BOT] [Lingual Tonsil Reduction - coblation] only after repeat BMI reduction + rpt SS
+3.[rpt RF turbinates + outfracture]
+4.[MDT][TORS] [Hypoglossal N. Stim]","{1: ['Weight Loss', 'Sleep Hygiene', 'CBTi'], 2: ['RF BOT', 'Lingual Tonsil Reduction - coblation'], 3: ['rpt RF turbinates + outfracture'], 4: ['MDT', 'TORS', 'Hypoglossal N. Stim']}","{1: ['Weight Loss', 'Sleep Hygiene', 'CBTi'], 2: ['RF BOT', 'Lingual Tonsil Reduction'], 3: ['rpt RF turbinates + outfracture'], 4: ['MDT', 'TORS', 'Hypoglossal N. Stim']}","1. [CBTi] [Sleep Hygiene] [Weight Loss]
+2. [Lingual Tonsil Reduction] [RF BOT]
+4. [Hypoglossal N. Stim] [MDT]"
+34.6,19.2,16.4,87.6,78.8,78.0,12.918281854309996,8.508282202474398,0.0,18.0,2,2.0,2.0,2.0,1,3,red 2,caudal disloc Rt severe spur,75.0,50.0,0.0,43.0,5.0,3.0,0.609350778530992,0.3883376687250958,2,0,1,0,0,"1.Septoplasty, out fracture, RF turbs and collumelloplasty today
+2.[Weight Loss][Rhinitis Rx]- reassess after BMI <30","{1: [], 2: ['Weight Loss', 'Rhinitis Rx']}","{1: [], 2: ['Weight Loss', 'Rhinitis Rx']}",2. [Rhinitis Rx] [Weight Loss]
+36.0,67.0,56.0,90.0,36.0,61.0,13.135551152985093,8.628311585370675,17.0,6.0,2,2.0,2.0,2.0,3,Long oedema,mild,0,100.0,100.0,100.0,43.0,5.0,18.0,0.6646981223222554,0.3330626509703694,2,1,1,1,0,"1.[Tonsillectomy] [Barbed Suture]Procut Palatoplasty] - TODAY
+2.[Weight Loss][Rhinitis Rx] [rpt SS at 3 months] ","{1: ['Tonsillectomy', 'Barbed Suture'], 2: ['Weight Loss', 'Rhinitis Rx', 'rpt SS at 3 months']}","{1: ['Tonsillectomy', 'Barbed Suture'], 2: ['Weight Loss', 'Rhinitis Rx', 'rpt SS at 3 months']}",2. [Rhinitis Rx] [Weight Loss]
+28.5,77.0,90.0,90.0,34.0,70.0,12.66212254402042,8.447517584187922,5.0,4.0,1,2.0,1.0,2.0,left remnant,left remnant,mild. prom,0,50.0,50.0,0.0,43.0,5.0,17.0,39,0.3447265053647423,2,0,1,2,0,"1.[Weight Loss][MAD]
+2.[RF BOT] [Lingual Tonsil Reduction] [TORS] 
+3.[Hypoglossal N. Stimulator]","{1: ['Weight Loss', 'MAD'], 2: ['RF BOT', 'Lingual Tonsil Reduction', 'TORS'], 3: ['Hypoglossal N. Stimulator']}","{1: ['Weight Loss', 'Mandibular Advancement Device'], 2: ['RF BOT', 'Lingual Tonsil Reduction', 'TORS'], 3: ['Hypoglossal N. Stim']}","1. [Allergy Testing] [Mandibular Advancement Device] [Weight Loss]
+2. [Lingual Tonsil Reduction] [RF BOT] [RF turbinates]
+3. [Hypoglossal N. Stim]"
+28.5,15.0,18.0,92.0,8.0,81.0,16.166927917386495,12,21.0,11.0,0,0.0,2.0,2.0,1,M,1,0,75.0,50.0,0.0,43.0,5.0,5.0,0.0,0.3338361828338921,1,0,1,1,1,"1.[PPI Trial] [CBTi]
+2.[Chinstrap][Mandibular Advancement Device][Sleep Position Modifier]
+3.No clear indication for surgery","{1: ['PPI Trial', 'CBTi'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: []}","{1: ['PPI Trial', 'CBTi'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: []}","1. [CBTi] [PPI Trial]
+2. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]"
+28.5,26.7,22.0,86.0,78.0,61.0,15.598163178789168,10.625915084042648,3.0,9.0,1,1.0,1.0,1.0,2,3,1,bilateral max.crest,75.0,50.0,0.0,43.0,5.0,10.0,16,0.3576790849164855,1,2,0,0,0,"1.[Weight Loss][Rhinitis Rx]  [chinstrap trial]
+2.[Tonsillectomy][Procut Palatoplasty] ","{1: ['Weight Loss', 'Rhinitis Rx', 'chinstrap trial'], 2: ['Tonsillectomy', 'Procut Palatoplasty']}","{1: ['Weight Loss', 'Rhinitis Rx', 'chinstrap trial'], 2: ['Tonsillectomy', 'Procut Palatoplasty']}",2. [Procut Palatoplasty] [Tonsillectomy]
+28.0,23.0,30.0,93.0,12.0,73.0,15.811942181945325,10.535346978341359,26.0,19.0,3,2.0,2.0,3.0,3,3,0,right spur Plus,75.0,50.0,0.0,43.0,4.0,10.0,22,0.3324984251952269,2,2,0,0,0,"1.[Weight Loss][Rhinitis Rx][Vit D by GP]
+2.[RF turbinates + outfracture] ","{1: ['Weight Loss', 'Rhinitis Rx', 'Vit D by GP'], 2: ['RF turbinates + outfracture']}","{1: ['Weight Loss', 'Rhinitis Rx', 'Vit D by GP'], 2: ['RF turbinates + outfracture']}","1. [Rhinitis Rx] [Weight Loss]
+2. [RF turbinates + outfracture]"
+23.0,19.0,49.0,95.0,7.0,74.0,17.136182071519546,11.662085038901132,11.0,8.0,2,2.0,2.0,2.0,1,3,2,L2/4PlusPlusPlus septal disloc to L,75.0,50.0,0.0,43.0,5.0,10.0,0.6280362183807713,0.3714421951533129,1,0,1,1,0,"1.[Chinstrap][Mandibular Advancement Device][Sleep Position Modifier]
+2.[Septoplasty] +/- [RF turbinates + outfracture] then rpt Sleep Study
+3.?[Allergy Testing] in OPD","{1: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Septoplasty', 'RF turbinates + outfracture'], 3: ['Allergy Testing']}","{1: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Septoplasty', 'RF turbinates + outfracture'], 3: ['Allergy Testing']}","1. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+2. [RF turbinates + outfracture] [Septoplasty]"
+22.0,22.0,26.0,94.8,2.3,84.0,16.352967494464128,10.945819920083206,0.0,2.0,2,2.0,2.0,2.5,2,m,3,Left mild,75.0,50.0,50.0,43.0,2.0,1.0,23,0.3302708607970847,2,2,0,1,0,"1.[Rhinitis Rx] [MAD]
+2.[Tonsillectomy] [Lingual Tonsil Reduction] + rpt sleep study
+3.[RF turbinates] [RF BOT]","{1: ['Rhinitis Rx', 'MAD'], 2: ['Tonsillectomy', 'Lingual Tonsil Reduction'], 3: ['RF turbinates', 'RF BOT']}","{1: ['Rhinitis Rx', 'Mandibular Advancement Device'], 2: ['Tonsillectomy', 'Lingual Tonsil Reduction'], 3: ['RF turbinates', 'RF BOT']}","1. [Mandibular Advancement Device] [Rhinitis Rx]
+2. [Lingual Tonsil Reduction] [Tonsillectomy]
+3. [RF BOT] [RF turbinates]"
+31.0,36.0,80.0,92.0,12.0,73.0,16.188088942222674,12,16.0,15.0,2,2.0,2.0,2.0,1,2,1,ant coll disloc Plus Spur L,75.0,50.0,0.0,43.0,5.0,10.0,0.6708816913586538,0.3289004894800928,2,2,0,1,1,"1.[Weight Loss][Rhinitis Rx]  drops + Spray
+2.[Chinstrap]  [Mandibular Advancement Device][Side sleeping]
+3.[Tonsillectomy] [Barbed Suture][Procut Palatoplasty (anterior / inferior)]
+4.[RF turbinates + outfracture][RF BOT]","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Side sleeping'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty (anterior / inferior)'], 4: ['RF turbinates + outfracture', 'RF BOT']}","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Side sleeping'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty'], 4: ['RF turbinates + outfracture', 'RF BOT']}","1. [PPI Trial] [Rhinitis Rx] [Weight Loss]
+2. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]
+4. [RF BOT]"
+30.0,23.0,49.0,93.0,7.6,71.0,16.30274523988621,11.000829134325947,6.0,20.0,1,1.0,1.5,2.0,2,L,2,R2PlusPlus,75.0,50.0,0.0,43.0,3.0,10.0,85,0.3153721793165686,2,2,1,2,0,"1.[Weight Loss][Rhinitis Rx][PPI Trial]
+2.[Chinstrap  after nose clear][MAD][Sleep Position Modifier]
+3.[Tonsillectomy] [Barbed Suture][procut palatoplasty(ant) +/- [RF turbinates]","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial'], 2: ['Chinstrap  after nose clear', 'MAD', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Barbed Suture', 'procut palatoplasty(ant) +/- [RF turbinates']}","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial'], 2: ['Chinstrap after nose clear', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Barbed Suture', 'procut palatoplasty(ant) +/- [RF turbinates']}","1. [PPI Trial] [Rhinitis Rx] [Weight Loss]
+2. [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Barbed Suture] [Tonsillectomy]"
+29.0,16.0,17.0,94.0,2.2,82.0,20.629303809240355,13.40805390269382,7.0,16.0,0,0.0,2.0,2.5,2,L,1,Lt Caudal,75.0,50.0,0.0,43.0,7.0,15.0,30,0.3086970788859098,1,1,1,1,0,"1.[Rhinitis Rx][Chinstrap][MAD if dentition allows on review]
+2.[RF Palate][Procut Palatoplasty – anterior + partial uvulectomy] [RF turbinates]  [+rpt SS]
+3.[Tonsillectomy] [Barbed Suture]","{1: ['Rhinitis Rx', 'Chinstrap', 'MAD if dentition allows on review'], 2: ['RF Palate', 'Procut Palatoplasty – anterior + partial uvulectomy', 'RF turbinates', '+rpt SS'], 3: ['Tonsillectomy', 'Barbed Suture']}","{1: ['Rhinitis Rx', 'Chinstrap', 'MAD if dentition allows on review'], 2: ['RF Palate', 'Procut Palatoplasty – anterior + partial uvulectomy', 'RF turbinates', '+rpt SS'], 3: ['Tonsillectomy', 'Barbed Suture']}","1. [Chinstrap] [Rhinitis Rx]
+2. [RF Palate] [RF turbinates]
+3. [Barbed Suture] [Tonsillectomy]"
+32.0,49.0,57.0,88.0,43.0,58.0,13.81695619242853,9.317273030335919,3.0,10.0,2,2.0,2.0,2.5,1,long broad,wet,left floor,75.0,50.0,0.0,43.0,6.0,17.0,27,0.3653488417529483,2,0,1,0,0,"1.Proceed to [out fracture turbinates][Septoplasty] – see op note
+2.[Allergy Testing]
+3.[Procut Palatoplasty] [Barbed Suture]","{1: ['out fracture turbinates', 'Septoplasty'], 2: ['Allergy Testing'], 3: ['Procut Palatoplasty', 'Barbed Suture']}","{1: ['out fracture turbinates', 'Septoplasty'], 2: ['Allergy Testing'], 3: ['Procut Palatoplasty', 'Barbed Suture']}","1. [Weight Loss]
+2. [Barbed Suture] [Procut Palatoplasty] [RF turbinates]"
+28.5,77.0,54.0,85.0,67.0,55.0,13.874166858520114,9.768193816871571,0.0,6.0,3,2.0,1.0,2.0,2,n,2 tight nostril,?,100.0,100.0,75.0,43.0,6.0,8.0,0.6358451881847595,0.3633971243057244,2,2,0,1,1,"1.[Rhinitis Rx][MAD][CT sinus]
+2.[Tonsillectomy] [RF turbinates][Septoplasty]
+3.[TORS – epiglottic wedge]  ","{1: ['Rhinitis Rx', 'MAD', 'CT sinus'], 2: ['Tonsillectomy', 'RF turbinates', 'Septoplasty'], 3: ['TORS – epiglottic wedge']}","{1: ['Rhinitis Rx', 'Mandibular Advancement Device', 'CT sinus'], 2: ['Tonsillectomy', 'RF turbinates', 'Septoplasty'], 3: ['TORS – epiglottic wedge']}","1. [Mandibular Advancement Device] [Rhinitis Rx]
+2. [RF turbinates] [Septoplasty] [Tonsillectomy]"
+27.4,45.7,68.4,93.0,13.6,58.0,15.75207492686827,10.230320141921396,9.0,3.0,2,2.0,2.0,2.5,2,L thick,1 red,0,75.0,50.0,0.0,43.0,5.0,10.0,43,0.329495132047308,2,1,0,1,0,"1.[Rhinitis Rx][PPI Trial]
+2.[Tonsillectomy] [Barbed Suture][Procut Palatoplasty]
+3.[Lingual Tonsil Reduction] [RF turbinates]","{1: ['Rhinitis Rx', 'PPI Trial'], 2: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty'], 3: ['Lingual Tonsil Reduction', 'RF turbinates']}","{1: ['Rhinitis Rx', 'PPI Trial'], 2: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty'], 3: ['Lingual Tonsil Reduction', 'RF turbinates']}","1. [PPI Trial] [Rhinitis Rx]
+2. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]
+3. [Lingual Tonsil Reduction] [RF turbinates]"
+34.0,94.0,92.0,87.0,63.0,69.0,15.515791857048576,1,33.0,18.0,2,1.0,3.0,3.0,3,3,red wet,L2Plus,75.0,50.0,0.0,43.0,5.0,10.0,0.6367328445363379,0.361471101036626,2,2,0,0,0,"1.[Weight Loss][Rhinitis Rx][continue CPAP][+rpt sleep study @3/12]
+2.[Barbed Suture]","{1: ['Weight Loss', 'Rhinitis Rx', 'continue CPAP', '+rpt sleep study @3/12'], 2: ['Barbed Suture']}","{1: ['Weight Loss', 'Rhinitis Rx', 'CPAP', '+rpt sleep study @3/12'], 2: ['Barbed Suture']}","1. [PPI Trial] [Rhinitis Rx] [Weight Loss]
+3. [Barbed Suture]"
+32.7,40.0,67.6,91.0,25.0,73.0,14.549001636185462,9.805303889433517,13.0,0.0,1,1.0,1.5,2.0,1,LD,1,0,75.0,50.0,0.0,43.0,6.0,10.0,1.3,0.3788275218601927,1,0,2,2,0,"1.[Weight Loss][Rhinitis Rx][Chinstrap]  [MAD][Allergy Testing]
+2.[+rpt sleep study after weight loss]
+3.Repeat DISE prior to any surgical intervention","{1: ['Weight Loss', 'Rhinitis Rx', 'Chinstrap', 'MAD', 'Allergy Testing'], 2: ['+rpt sleep study after weight loss'], 3: []}","{1: ['Weight Loss', 'Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device', 'Allergy Testing'], 2: ['+rpt sleep study after weight loss'], 3: []}",1. [Allergy Testing] [Chinstrap] [Mandibular Advancement Device] [Weight Loss]
+27.3,48.0,54.0,90.0,25.0,57.0,13.190994776733897,8.651744057294144,3.0,4.0,2,2.0,2.0,2.0,1,L,tight R,R2Plus,75.0,50.0,0.0,43.0,4.0,10.0,69,0.3439777209411602,1,0,0,2,0,"1.[Rhinitis Rx] [VitD] [Chinstrap] [NIPF] [continue CPAP]
+2.[Tonsillectomy] [Procut Palatoplasty] [Barbed Suture] – could consider [procut + RF palate first]
+3.[RF turbinates][Septoplasty] after CT as nostril very tight on right side ?DNS","{1: ['Rhinitis Rx', 'VitD', 'Chinstrap', 'NIPF', 'continue CPAP'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'Barbed Suture', 'procut + RF palate first'], 3: ['RF turbinates', 'Septoplasty']}","{1: ['Rhinitis Rx', 'VitD', 'Chinstrap', 'NIPF', 'CPAP'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'Barbed Suture', 'procut + RF palate first'], 3: ['RF turbinates', 'Septoplasty']}","1. [CPAP] [Chinstrap] [Rhinitis Rx]
+2. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]
+3. [RF turbinates] [Septoplasty]"
+28.5,5.1,22.0,95.0,0.1,89.0,18.19026302909301,12.0917002062311,1.0,7.0,2,2.0,2.0,2.5,1,L,prominent,spur to right post,75.0,50.0,0.0,43.0,5.0,13.0,27,0.3126678135401144,1,0,0,1,0,1.[Rhinitis Rx][Sleep Hygiene][Allergy Testing] ,"{1: ['Rhinitis Rx', 'Sleep Hygiene', 'Allergy Testing']}","{1: ['Rhinitis Rx', 'Sleep Hygiene', 'Allergy Testing']}","1. [Myofunct. Therapy] [Rhinitis Rx] [Weight Loss]
+2. [Chinstrap] [RF Palate] [RF turbinates]"
+24.0,21.0,26.0,92.0,5.0,67.0,16.894908925059923,11.392774460607873,10.0,6.0,2,3.0,1.0,2.0,2,L,"mild rhinitis,prominent",0,75.0,50.0,0.0,43.0,4.0,14.0,60,0.3869446132792462,2,2,0,2,(1) but due to BOT,"1.[Rhinitis Rx][Sleep Position Modifier][Allergy Testing][MAD bespoke] [+rpt sleep study]
+2.[MDT] +/- [Tonsillectomy] [Procut Palatoplasty] [RF BOT] [Lingual Tonsil Reduction]
+[Barbed Suture][Orthognathic Surgery][TORS]  [Hypoglossal N. Stimulator]","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Allergy Testing', 'MAD bespoke', '+rpt sleep study'], 2: ['MDT', 'Tonsillectomy', 'Procut Palatoplasty', 'RF BOT', 'Lingual Tonsil Reduction', 'Barbed Suture', 'Orthognathic Surgery', 'TORS', 'Hypoglossal N. Stimulator']}","{1: ['Rhinitis Rx', 'Sleep Position Modifier', 'Allergy Testing', 'MAD bespoke', '+rpt sleep study'], 2: ['MDT', 'Tonsillectomy', 'Procut Palatoplasty', 'RF BOT', 'Lingual Tonsil Reduction', 'Barbed Suture', 'Orthognathic Surgery', 'TORS', 'Hypoglossal N. Stim']}","1. [+rpt sleep study] [Allergy Testing] [Rhinitis Rx] [Sleep Position Modifier]
+2. [Barbed Suture] [Lingual Tonsil Reduction] [Procut Palatoplasty] [RF BOT] [Tonsillectomy]
+3. [Lingual Tonsil Reduction]"
+30.5,29.0,52.0,93.0,11.0,65.0,16.961124581174765,11.30534299629203,2.0,1.0,2,1.0,2.0,2.0,II,M,n/s,R (Inf Spur),75.0,50.0,0.0,43.0,5.0,3.0,80,0.3151943050009003,0,2,0,0,0,"1.[Weight Loss][Rhinitis Rx][PPI Trial][Sleep Hygiene][Myofunct. Therapy]
+2.[Chinstrap][MAD][Sleep Position Modifier][Allergy Testing][+rpt sleep study]
+3.[Tonsillectomy][RF Palate][Procut Palatoplasty] [Expansion Sphincteroplasty]
+4.[RF BOT] [Lingual Tonsil Reduction] [RF turbinates][Septoplasty] [Barbed Suture][Adenoidectomy]
+5.[Orthognathic Surgery][TORS] [Hypoglossal N. Stimulator][Restart / continue CPAP]","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'Sleep Hygiene', 'Myofunct. Therapy'], 2: ['Chinstrap', 'MAD', 'Sleep Position Modifier', 'Allergy Testing', '+rpt sleep study'], 3: ['Tonsillectomy', 'RF Palate', 'Procut Palatoplasty', 'Expansion Sphincteroplasty'], 4: ['RF BOT', 'Lingual Tonsil Reduction', 'RF turbinates', 'Septoplasty', 'Barbed Suture', 'Adenoidectomy'], 5: ['Orthognathic Surgery', 'TORS', 'Hypoglossal N. Stimulator', 'Restart / continue CPAP']}","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'Sleep Hygiene', 'Myofunct. Therapy'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier', 'Allergy Testing', '+rpt sleep study'], 3: ['Tonsillectomy', 'RF Palate', 'Procut Palatoplasty', 'Expansion Sphincteroplasty'], 4: ['RF BOT', 'Lingual Tonsil Reduction', 'RF turbinates', 'Septoplasty', 'Barbed Suture', 'Adenoidectomy'], 5: ['Orthognathic Surgery', 'TORS', 'Hypoglossal N. Stim', 'CPAP']}","1. [Myofunct. Therapy] [PPI Trial] [Rhinitis Rx] [Sleep Hygiene] [Sleep Position Modifier] [Weight Loss]
+2. [+rpt sleep study] [Allergy Testing] [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier] [Tonsillectomy]
+3. [Procut Palatoplasty] [Tonsillectomy]
+4. [Barbed Suture] [Lingual Tonsil Reduction] [RF BOT]"
+30.5,29.0,52.0,93.0,11.0,65.0,16.961124581174765,11.30534299629203,2.0,1.0,2,1.0,2.0,2.0,II,M,min,R (Inf Spur),75.0,50.0,0.0,43.0,5.0,3.0,80,0.3151943050009003,0,2,0,0,0,"1.[Weight Loss][~Chinstrap][Sleep Position Modifier][+rpt sleep study - requested]
+2.[Tonsillectomy]","{1: ['Weight Loss', '~Chinstrap', 'Sleep Position Modifier', '+rpt sleep study - requested'], 2: ['Tonsillectomy']}","{1: ['Weight Loss', '~Chinstrap', 'Sleep Position Modifier', '+rpt sleep study - requested'], 2: ['Tonsillectomy']}","1. [Myofunct. Therapy] [PPI Trial] [Sleep Hygiene] [Sleep Position Modifier] [Weight Loss]
+2. [+rpt sleep study] [Allergy Testing] [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier] [Tonsillectomy]
+3. [Procut Palatoplasty] [Tonsillectomy]
+4. [Barbed Suture] [Lingual Tonsil Reduction] [RF BOT]"
+28.5,62.5,61.7,86.6,66.8,65.0,16.07623358838486,11.059616477068023,8.0,7.0,3,2.0,2.0,2.0,1,n,1,?,75.0,50.0,0.0,43.0,5.0,10.0,20,0.3550019784331402,1,1,1,1,0,1.[Tonsillectomy][Procut Palatoplasty] [allergy testing][Barbed Suture][NIPF in OPD],"{1: ['Tonsillectomy', 'Procut Palatoplasty', 'allergy testing', 'Barbed Suture', 'NIPF in OPD']}","{1: ['Tonsillectomy', 'Procut Palatoplasty', 'allergy testing', 'Barbed Suture', 'NIPF in OPD']}",2. [Procut Palatoplasty]
+29.0,68.0,74.0,91.0,27.0,69.0,13.79760647099759,1,3.0,6.0,2,3.0,2.0,2.0,1,3,2 pale,0,75.0,50.0,0.0,43.0,5.0,10.0,0.6513838663605065,0.3461780444101849,2,0,1,1,0,"1.[Weight Loss for truncal obesity] [Rhinitis Rx – Dymista + Douche] continue CPAP
+2.[Barbed Suture][Procut Palatoplasty (anterior / inferior)]
+3.Outcome may be compromised by Salpingopharyngeal prominent folds – see video","{1: ['Weight Loss for truncal obesity', 'Rhinitis Rx – Dymista + Douche'], 2: ['Barbed Suture', 'Procut Palatoplasty (anterior / inferior)'], 3: []}","{1: ['Weight Loss for truncal obesity', 'Rhinitis Rx – Dymista + Douche'], 2: ['Barbed Suture', 'Procut Palatoplasty'], 3: []}",2. [Barbed Suture] [Procut Palatoplasty]
+27.0,44.0,69.0,94.0,6.0,79.0,16.611948880803368,11.063883329428872,7.0,12.0,3,2.0,2.0,2.5,0,3,1,0,75.0,50.0,0.0,43.0,7.0,10.0,44,0.3269026588564838,1,0,1,0,1,"1.Mandibular Advancement Device] +/- [Chinstrap][Sleep Position Modifier]
+2.[Procut Palatoplasty (anterior / inferior)][RF BOT]
+3.[MDT][TORS][Hypoglossal N. Stim]","{1: ['Chinstrap', 'Sleep Position Modifier'], 2: ['Procut Palatoplasty (anterior / inferior)', 'RF BOT'], 3: ['MDT', 'TORS', 'Hypoglossal N. Stim']}","{1: ['Chinstrap', 'Sleep Position Modifier'], 2: ['Procut Palatoplasty', 'RF BOT'], 3: ['MDT', 'TORS', 'Hypoglossal N. Stim']}","1. [Rhinitis Rx] [Weight Loss]
+2. [RF turbinates + outfracture] [Septoplasty]
+3. [Barbed Suture]
+4. [Hypoglossal N. Stim]"
+29.0,21.0,39.0,93.0,8.0,74.0,17.620612837955118,15,13.0,15.0,2,1.0,2.0,2.5,3,2,red 2,L2/3 Plus,75.0,50.0,0.0,43.0,2.0,10.0,0.6814186330473098,0.3185086336343186,2,2,0,2,0,"1.[Weight Loss][Rhinitis Rx] [PPI Trial]
+2.[Chinstrap][Mandibular Advancement Device][Sleep Position Modifier]
+3.[Tonsillectomy][Lingual Tonsil Reduction - coblation] +/- [RF BOT]
+4.[Septoplasty] [RF turbinates + outfracture] ","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Lingual Tonsil Reduction - coblation', 'RF BOT'], 4: ['Septoplasty', 'RF turbinates + outfracture']}","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Lingual Tonsil Reduction', 'RF BOT'], 4: ['Septoplasty', 'RF turbinates + outfracture']}","1. [PPI Trial] [Rhinitis Rx] [Weight Loss]
+2. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Lingual Tonsil Reduction] [RF BOT] [Tonsillectomy]"
+30.0,45.0,65.0,91.0,23.0,68.0,13.252995707271118,5,12.0,5.0,3,2.0,2.0,2.0,02-Mar,3,1 wet,L2PlusPlus overriding / R2/4Plus,75.0,50.0,0.0,43.0,5.0,10.0,0.6513920449063465,0.3466406770085536,2,2,0,0,0,"1.[Weight Loss][Rhinitis Rx][?PPI Trial][Sleep Position Modifier][continue CPAP]
+2.[Tonsillectomy][Septoplasty][RF turbinates + outfracture] ","{1: ['Weight Loss', 'Rhinitis Rx', '?PPI Trial', 'Sleep Position Modifier', 'continue CPAP'], 2: ['Tonsillectomy', 'Septoplasty', 'RF turbinates + outfracture']}","{1: ['Weight Loss', 'Rhinitis Rx', '?PPI Trial', 'Sleep Position Modifier', 'CPAP'], 2: ['Tonsillectomy', 'Septoplasty', 'RF turbinates + outfracture']}","1. [CPAP] [Rhinitis Rx] [Sleep Position Modifier] [Weight Loss]
+2. [RF turbinates + outfracture] [Septoplasty] [Tonsillectomy]"
+26.0,42.7,57.6,90.0,35.0,65.0,14.167890543771566,9.426137658923443,18.0,15.0,3,2.5,2.0,3.0,3,n,1 mucus strings,mild general to L,75.0,50.0,0.0,43.0,4.0,10.0,51,0.3778792862144711,1,2,0,1,0,"1.[Rhinitis Rx]
+2.[RF Palate][Procut Palatoplasty] [RF BOT]","{1: ['Rhinitis Rx'], 2: ['RF Palate', 'Procut Palatoplasty', 'RF BOT']}","{1: ['Rhinitis Rx'], 2: ['RF Palate', 'Procut Palatoplasty', 'RF BOT']}","1. [Rhinitis Rx]
+2. [Procut Palatoplasty] [RF BOT] [RF Palate]"
+26.0,31.0,47.0,92.0,10.0,71.0,16.0920103434447,19,4.0,16.0,1,2.0,3.0,3.0,1,3,"1 mucus strings, pale ITs",0,75.0,50.0,0.0,40.0,4.0,10.0,0.6226453673922513,0.3781506968968465,2,0,1,0,0,"1.[Weight Loss][Rhinitis Rx - continue] 
+2.[Chinstrap][Mandibular Advancement Device][Sleep Position Modifier]
+3.[Tonsillectomy] [Barbed Suture][Procut Palatoplasty (anterior / inferior)] ","{1: ['Weight Loss', 'Rhinitis Rx - continue'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty (anterior / inferior)']}","{1: ['Weight Loss', 'Rhinitis Rx - continue'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty']}","1. [Weight Loss]
+2. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]"
+25.8,19.8,20.0,92.8,9.3,71.0,15.163024578366851,10.333519973931843,18.0,6.0,2,2.0,2.0,2.0,1,m,2 edema,non-occluding right spu,75.0,50.0,0.0,43.0,4.0,10.0,41,0.3552715416211399,1,0,0,2,0,"1.[Rhinitis Rx][Chinstrap][MAD][Allergy Testing]
+2.[Procut Palatoplasty] [RF BOT]
+3.[RF turbinates]","{1: ['Rhinitis Rx', 'Chinstrap', 'MAD', 'Allergy Testing'], 2: ['Procut Palatoplasty', 'RF BOT'], 3: ['RF turbinates']}","{1: ['Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device', 'Allergy Testing'], 2: ['Procut Palatoplasty', 'RF BOT'], 3: ['RF turbinates']}","1. [Allergy Testing] [Myofunct. Therapy] [Rhinitis Rx] [Sleep Hygiene]
+3. [Lingual Tonsil Reduction] [RF BOT] [RF turbinates]"
+30.0,40.0,47.0,93.0,11.0,72.0,16.30274523988621,11.000829134325947,21.0,9.0,1,1.0,2.0,2.5,1,oedematous,Y,bilat max crest spurs ant,75.0,50.0,0.0,43.0,2.0,10.0,59,0.3153721793165686,2,2,0,1,0,"1.[Weight Loss][Rhinitis Rx][antacid advice] [Restart / continue CPAP][Chinstrap][Allergy Testing req on DSU]
+2.[Tonsillectomy] [Barbed Suture] [+/- Ant. Procut Palatoplasty]
+3.[RF BOT] [Lingual Tonsil Reduction] [-/+ RF turbinates]  if 1 ineffective after rpt sleeps study ","{1: ['Weight Loss', 'Rhinitis Rx', 'antacid advice', 'Restart / continue CPAP', 'Chinstrap', 'Allergy Testing req on DSU'], 2: ['Tonsillectomy', 'Barbed Suture', '+/- Ant. Procut Palatoplasty'], 3: ['RF BOT', 'Lingual Tonsil Reduction', '-/+ RF turbinates']}","{1: ['Weight Loss', 'Rhinitis Rx', 'antacid advice', 'CPAP', 'Chinstrap', 'Allergy Testing req on DSU'], 2: ['Tonsillectomy', 'Barbed Suture', '+/- Ant. Procut Palatoplasty'], 3: ['RF BOT', 'Lingual Tonsil Reduction', '-/+ RF turbinates']}","1. [PPI Trial] [Rhinitis Rx] [Sleep Hygiene] [Weight Loss]
+2. [Tonsillectomy]
+3. [RF BOT] [RF turbinates]"
+27.0,8.0,19.0,93.0,10.5,79.0,15.707152046346057,2,0.0,0.0,3,3.0,2.0,3.0,1,2,wet / red,R2PlusPlusPlus Lspur,75.0,50.0,0.0,43.0,4.0,10.0,0.6634310876957692,0.3349998224584449,1,0,2,2,1 (0),"1.[Weight Loss][Rhinitis Rx – Dymista] [Sleep Position Modifier – big difference]
+2.[Chinstrap] +/-  [Mandibular Advancement Device][Allergy Testing req in theatre]
+3.[Septoplasty][RF turbinates + outfracture]
+3b. [Procut Palatoplasty (anterior / inferior)] FOR SNORING
+4.[RF BOT] [Lingual Tonsil Reduction - coblation] ","{1: ['Weight Loss', 'Rhinitis Rx – Dymista', 'Sleep Position Modifier – big difference'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Allergy Testing req in theatre'], 3: ['Septoplasty', 'RF turbinates + outfracture', 'Procut Palatoplasty (anterior / inferior)'], 4: ['RF BOT', 'Lingual Tonsil Reduction - coblation']}","{1: ['Weight Loss', 'Rhinitis Rx – Dymista', 'Sleep Position Modifier – big difference'], 2: ['Chinstrap', 'Mandibular Advancement Device', 'Allergy Testing req in theatre'], 3: ['Septoplasty', 'RF turbinates + outfracture', 'Procut Palatoplasty'], 4: ['RF BOT', 'Lingual Tonsil Reduction']}","1. [Weight Loss]
+2. [Chinstrap] [Mandibular Advancement Device]
+3. [Procut Palatoplasty] [RF turbinates + outfracture] [Septoplasty]
+4. [Lingual Tonsil Reduction] [RF BOT]"
+29.0,19.0,62.0,93.0,6.0,82.0,17.620612837955118,4,21.0,8.0,3,3.0,1.0,1.5,1,2,red congested ?URTI,L2/3 PlusPlusPlus,75.0,50.0,0.0,43.0,4.0,10.0,0.6814186330473098,0.3185086336343186,2,1,2,2,0,"1.CT scan sinuses – requested in theatre
+2.[Weight Loss][Rhinitis Rx][PPI Trial] GP to Rx Vit D
+3.[Septoplasty] [RF turbinates + outfracture] ","{1: [], 2: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial'], 3: ['Septoplasty', 'RF turbinates + outfracture']}","{1: [], 2: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial'], 3: ['Septoplasty', 'RF turbinates + outfracture']}","2. [Rhinitis Rx] [Weight Loss]
+3. [Lingual Tonsil Reduction] [RF turbinates + outfracture] [Septoplasty]"
+31.4,68.0,83.0,86.0,54.0,53.0,15.693823885088706,10.650453757168245,9.0,10.0,1,1.0,1.0,1.0,2,n,1,L max crest sur PlusPlus indenting L IT,75.0,50.0,0.0,43.0,4.0,10.0,19,0.3645184627891371,2,2,0,0,0,"1.[Weight Loss – stop upper body building][Rhinitis Rx + douche][PPI Trial][?reduce alcohol]
+2.[Tonsillectomy][Barbed Suture]
+3.[RF turbinates][Septoplasty]","{1: ['Weight Loss – stop upper body building', 'Rhinitis Rx + douche', 'PPI Trial', '?reduce alcohol'], 2: ['Tonsillectomy', 'Barbed Suture'], 3: ['RF turbinates', 'Septoplasty']}","{1: ['Weight Loss – stop upper body building', 'Rhinitis Rx + douche', 'PPI Trial', '?reduce alcohol'], 2: ['Tonsillectomy', 'Barbed Suture'], 3: ['RF turbinates', 'Septoplasty']}","1. [PPI Trial] [Weight Loss]
+2. [Barbed Suture] [Tonsillectomy]
+3. [RF turbinates] [Septoplasty]"
+29.5,44.0,44.0,93.0,25.0,70.0,15.00173832071438,2.5,6.0,12.0,2,2.0,1.0,1.0,1,3,2 wet,L max spurR overhang,75.0,50.0,0.0,43.0,7.0,10.0,0.6894539733603571,0.3094961256853286,1,1,0,2,0,"1.[Weight Loss][Rhinitis Rx] NIPF in clinic
+2.[Lingual Tonsil Reduction - coblation] +/- [RF BOT] ? [RF turbinates + outfracture if NIPF high]
+3.[MDT]?[Hypoglossal N. Stim] after repeat SS and DISE","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Lingual Tonsil Reduction - coblation', 'RF BOT', 'RF turbinates + outfracture if NIPF high'], 3: ['MDT', 'Hypoglossal N. Stim']}","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['Lingual Tonsil Reduction', 'RF BOT', 'RF turbinates + outfracture if NIPF high'], 3: ['MDT', 'Hypoglossal N. Stim']}","1. [Rhinitis Rx] [Weight Loss]
+2. [Lingual Tonsil Reduction] [RF BOT]
+3. [Hypoglossal N. Stim] [MDT]"
+36.0,2.9,14.0,94.0,1.0,84.0,18.289719548378255,12.32160219796626,19.0,12.0,2,2.0,2.0,2.5,1,neo1,1,septal perf ant 2cmMucopus from sinuses,75.0,50.0,0.0,43.0,5.0,10.0,74,0.3366650644236044,2,1,2,1,0,"1.Saline wash douche + Naseptin
+2.[Weight Loss]","{1: [], 2: ['Weight Loss']}","{1: [], 2: ['Weight Loss']}","1. [Myofunct. Therapy] [PPI Trial] [Sleep Hygiene] [Weight Loss]
+2. [Chinstrap] [Rhinitis Rx]"
+26.0,20.0,49.0,93.0,11.0,75.0,15.037619283640783,1,24.0,14.0,2,2.0,2.0,2.5,2,2,1,R max crest,75.0,50.0,0.0,43.0,4.0,6.0,0.636037265427416,0.3642370007735452,1,0,0,0,0,1.[Rhinitis Rx]  [Myofunct. Therapy] [Chinstrap][Allergy Testing],"{1: ['Rhinitis Rx', 'Myofunct. Therapy', 'Chinstrap', 'Allergy Testing']}","{1: ['Rhinitis Rx', 'Myofunct. Therapy', 'Chinstrap', 'Allergy Testing']}","1. [Rhinitis Rx] [Sleep Position Modifier]
+2. [Barbed Suture] [Procut Palatoplasty] [RF Palate] [Sleep Position Modifier]
+3. [RF BOT] [Septoplasty]
+4. [RF BOT]"
+27.0,48.0,48.0,92.0,19.0,59.0,15.791114845713569,9,3.0,1.0,2,2.0,2.0,2.0,2,2,3 cobblestone,L2PlusPlus R overiding,75.0,50.0,0.0,43.0,4.0,10.0,0.6482190303713797,0.3517636197543736,2,2,1,2,0,"1.[Weight Loss][Rhinitis Rx]
+2.Proceed to [RF turbinates + outfracture][Septoplasty] [rpt sleep study in 3/12 book in OPD]
+3.[Tonsillectomy] [Barbed Suture][Procut Palatoplasty (anterior / inferior)] ","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['RF turbinates + outfracture', 'Septoplasty', 'rpt sleep study in 3/12 book in OPD'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty (anterior / inferior)']}","{1: ['Weight Loss', 'Rhinitis Rx'], 2: ['RF turbinates + outfracture', 'Septoplasty', 'rpt sleep study in 3/12 book in OPD'], 3: ['Tonsillectomy', 'Barbed Suture', 'Procut Palatoplasty']}","1. [Rhinitis Rx] [Weight Loss]
+2. [RF turbinates + outfracture] [Septoplasty]
+3. [Barbed Suture] [Procut Palatoplasty] [Tonsillectomy]"
+25.0,31.0,56.0,94.0,7.0,75.0,14.609938712607097,0,2.0,7.0,3,2.0,2.0,2.0,2,3,pale purple,Lmax crest. R4Plus,75.0,50.0,0.0,43.0,4.0,10.0,0.6345246114975499,0.3662135952957974,2,2,0,0,0,"1.[continue Rhinitis Rx] [Sleep Position Modifier]
+2.[Tonsillectomy]
+3.[Septoplasty] [RF turbinates + outfracture] ","{1: ['continue Rhinitis Rx', 'Sleep Position Modifier'], 2: ['Tonsillectomy'], 3: ['Septoplasty', 'RF turbinates + outfracture']}","{1: ['Rhinitis Rx', 'Sleep Position Modifier'], 2: ['Tonsillectomy'], 3: ['Septoplasty', 'RF turbinates + outfracture']}","1. [Rhinitis Rx] [Sleep Position Modifier]
+2. [RF turbinates + outfracture] [Tonsillectomy]
+3. [RF turbinates + outfracture] [Septoplasty]"
+27.2,78.0,79.0,90.0,37.0,68.0,13.186448079833887,<1,14.0,8.0,2,1.0,2.0,2.0,1,4,1,R2/3PlusPlus,75.0,50.0,0.0,43.0,5.0,10.0,0.6579785728516913,0.3439777209411602,2,2,1,1,0,"1.[Weight Loss][Rhinitis Rx] betnesol drops + Dymista [PPI Trial] [CBTi]
+[Mandibular Advancement Device] Vit D by GP
+2.[Tonsillectomy]+ [Procut Palatoplasty (anterior / inferior)]
+3.[RF turbinates + outfracture] + [Barbed Suture]","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'CBTi', 'Mandibular Advancement Device'], 2: ['Tonsillectomy', 'Procut Palatoplasty (anterior / inferior)'], 3: ['RF turbinates + outfracture', 'Barbed Suture']}","{1: ['Weight Loss', 'Rhinitis Rx', 'PPI Trial', 'CBTi', 'Mandibular Advancement Device'], 2: ['Tonsillectomy', 'Procut Palatoplasty'], 3: ['RF turbinates + outfracture', 'Barbed Suture']}","1. [CBTi] [Mandibular Advancement Device] [PPI Trial] [Rhinitis Rx] [Weight Loss]
+2. [Procut Palatoplasty] [Tonsillectomy]
+3. [Barbed Suture] [RF turbinates + outfracture]"
+29.0,41.0,60.0,94.0,32.0,68.0,18.36232811442864,2.5,0.0,1.0,3,3.0,3.0,3.0,1,4,0,Lmax crest spur,75.0,50.0,0.0,43.0,6.0,10.0,0.6878102420390839,0.3118880327292238,2,0,1,0,0,"1.[Sleep Position Modifier][continue CPAP]
+2.[Procut Palatoplasty (anterior / inferior)] [+rpt sleep study]
+3.[MDT] ? [Barbed Suture +Tonsillectomy] ? cause for forced soft palate closure on inspiration!","{1: ['Sleep Position Modifier', 'continue CPAP'], 2: ['Procut Palatoplasty (anterior / inferior)', '+rpt sleep study'], 3: ['MDT', 'Barbed Suture +Tonsillectomy']}","{1: ['Sleep Position Modifier', 'CPAP'], 2: ['Procut Palatoplasty', '+rpt sleep study'], 3: ['MDT', 'Barbed Suture +Tonsillectomy']}",1. [Weight Loss]
+28.0,28.0,43.0,92.0,12.0,69.0,15.258030536031889,6,6.0,16.0,1,1.0,2.0,2.0,1,3,3 wet pale cobblestone,L spur PlusPlus,75.0,50.0,0.0,43.0,5.0,4.0,0.6584184417656377,0.3440769671900371,2,1,0,1,0,"1.?[Weight Loss][Rhinitis Rx] dymista + douche [Allergy Testing] requested in theatre
+2.?[Chinstrap][Sleep Position Modifier]
+3.[Septoplasty][RF turbinates + outfracture]
+4.[Barbed Suture suspension][Procut Palatoplasty (anterior / inferior)] ","{1: ['Weight Loss', 'Rhinitis Rx', 'Allergy Testing'], 2: ['Chinstrap', 'Sleep Position Modifier'], 3: ['Septoplasty', 'RF turbinates + outfracture'], 4: ['Barbed Suture suspension', 'Procut Palatoplasty (anterior / inferior)']}","{1: ['Weight Loss', 'Rhinitis Rx', 'Allergy Testing'], 2: ['Chinstrap', 'Sleep Position Modifier'], 3: ['Septoplasty', 'RF turbinates + outfracture'], 4: ['Barbed Suture suspension', 'Procut Palatoplasty']}","1. [Allergy Testing] [Rhinitis Rx] [Weight Loss]
+2. [Chinstrap] [Sleep Position Modifier]
+3. [RF turbinates + outfracture] [Septoplasty]
+4. [Procut Palatoplasty]"
+28.0,40.0,74.0,88.0,39.0,55.0,12.557090945695512,6,5.0,2.0,2,0.0,3.0,3.0,3,3,0 (3 in theatre ?URTI),spur right antPlus,75.0,50.0,0.0,43.0,3.0,11.0,0.6516310660332971,0.3482677407001523,2,2,0,1,0,"1.Refer to H&N 2WW for VC assessment ? Narrow Band Imaging ? Bx
+2.[PPI Trial][Chinstrap][Mandibular Advancement Device][Sleep Position Modifier]
+3.[Tonsillectomy][Procut Palatoplasty (anterior / inferior)]","{1: [], 2: ['PPI Trial', 'Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Procut Palatoplasty (anterior / inferior)']}","{1: [], 2: ['PPI Trial', 'Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 3: ['Tonsillectomy', 'Procut Palatoplasty']}","2. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+3. [Procut Palatoplasty] [Tonsillectomy]"
+26.0,24.0,24.0,97.0,9.0,82.0,13.414460717862717,19,7.0,17.0,3,3.0,2.0,2.0,1,2,1,bilat max crest R>L RDNS 2PlusPlus at nasal valve,75.0,50.0,0.0,43.0,5.0,5.0,0.650388153693066,0.3496027072962711,1,0,2,2,0,"1.[Chinstrap] +/- [Mandibular Advancement Device] ? [Sleep Position Modifier]Restart CPAP
+2.[continue Rhinitis Rx]  [Myofunct. Therapy – AirGym / exercises]
+3.NIPF in OPD [Septoplasty] [RF turbinates + outfracture]
+4.[RF BOT] +/- [Lingual Tonsil Reduction - coblation]
+5.[Hypoglossal N. Stim]","{1: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['continue Rhinitis Rx', 'Myofunct. Therapy – AirGym / exercises'], 3: ['Septoplasty', 'RF turbinates + outfracture'], 4: ['RF BOT', 'Lingual Tonsil Reduction - coblation'], 5: ['Hypoglossal N. Stim']}","{1: ['Chinstrap', 'Mandibular Advancement Device', 'Sleep Position Modifier'], 2: ['Rhinitis Rx', 'Myofunct. Therapy – AirGym / exercises'], 3: ['Septoplasty', 'RF turbinates + outfracture'], 4: ['RF BOT', 'Lingual Tonsil Reduction'], 5: ['Hypoglossal N. Stim']}","1. [Chinstrap] [Mandibular Advancement Device] [Sleep Position Modifier]
+2. [Rhinitis Rx]
+3. [RF BOT] [RF turbinates + outfracture] [Septoplasty]
+4. [Lingual Tonsil Reduction] [RF BOT]"
+35.0,31.0,44.0,95.0,7.0,80.0,18.317725206685864,27,3.0,0.0,2,1.0,1.0,2.0,1,2,0,0,75.0,50.0,0.0,43.0,5.0,2.0,0.6491060383155808,0.3511888470206303,2,0,2,1,0,"1.[Weight Loss] [Myofunct. Therapy] continue CPAP
+2.[Sleep Position Modifier]
+3.[+rpt sleep study] when BMI < 32, preferably <30","{1: ['Weight Loss', 'Myofunct. Therapy'], 2: ['Sleep Position Modifier'], 3: ['+rpt sleep study']}","{1: ['Weight Loss', 'Myofunct. Therapy'], 2: ['Sleep Position Modifier'], 3: ['+rpt sleep study']}","1. [Myofunct. Therapy] [Weight Loss]
+2. [Sleep Position Modifier]"
+30.4,21.0,44.0,94.0,2.4,84.0,17.396078025352168,10,3.0,15.0,2,2.0,1.0,2.0,3,2,wet pale,R2PlusPlusPlus / L4Plus high,75.0,50.0,0.0,43.0,5.0,10.0,0.6879586009089681,0.3137421839012451,2,2,0,0,0,"1.[Weight Loss][Rhinitis Rx – Pirinase OTC][Sleep on Right][continue CPAP long term if patient is happy with this]
+2.[Septoplasty] [RF turbinates + outfracture]
+3.[Tonsillectomy if ongoing symptoms] ","{1: ['Weight Loss', 'Rhinitis Rx – Pirinase OTC', 'Sleep on Right', 'continue CPAP long term if patient is happy with this'], 2: ['Septoplasty', 'RF turbinates + outfracture'], 3: ['Tonsillectomy if ongoing symptoms']}","{1: ['Weight Loss', 'Rhinitis Rx – Pirinase OTC', 'Sleep on Right', 'continue CPAP long term if patient is happy with this'], 2: ['Septoplasty', 'RF turbinates + outfracture'], 3: ['Tonsillectomy if ongoing symptoms']}","1. [Weight Loss]
+2. [RF turbinates + outfracture] [Septoplasty]"
+30.0,18.0,25.0,95.0,3.0,78.0,16.992483781495825,11.571154284891195,0.0,7.0,1,0.0,1.0,1.0,02-Mar,Long,"red, wet",Mild left,75.0,50.0,0.0,43.0,5.0,16.0,25,0.3142245986451329,2,1,1,0,0,"1.[Rhinitis Rx] [Chinstrap] [MAD] [Weight loss]
+2.[Tonsillectomy] [Procut Palatoplasty][RF turbinates]","{1: ['Rhinitis Rx', 'Chinstrap', 'MAD', 'Weight loss'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF turbinates']}","{1: ['Rhinitis Rx', 'Chinstrap', 'Mandibular Advancement Device', 'Weight loss'], 2: ['Tonsillectomy', 'Procut Palatoplasty', 'RF turbinates']}","1. [Chinstrap] [Mandibular Advancement Device] [Myofunct. Therapy] [Rhinitis Rx]
+2. [Procut Palatoplasty] [RF turbinates] [Tonsillectomy]"
+27.3,48.0,54.0,90.0,25.0,57.0,13.190994776733897,8.651744057294144,3.0,4.0,2,2.0,2.0,2.0,1,s,tight R,R2Plus,75.0,50.0,0.0,43.0,4.0,10.0,69,0.3439777209411602,1,0,0,2,0,"1.[Rhinitis Rx] [VitD] [Chinstrap] [NIPF] [continue CPAP]
+2.[Tonsillectomy] Procut Palatoplasty] [Barbed Suture]
+3.[RF turbinates][Septoplasty] after CT as nostril very tight on right side ?DNS","{1: ['Rhinitis Rx', 'VitD', 'Chinstrap', 'NIPF', 'continue CPAP'], 2: ['Tonsillectomy', 'Barbed Suture'], 3: ['RF turbinates', 'Septoplasty']}","{1: ['Rhinitis Rx', 'VitD', 'Chinstrap', 'NIPF', 'CPAP'], 2: ['Tonsillectomy', 'Barbed Suture'], 3: ['RF turbinates', 'Septoplasty']}","1. [CPAP] [Chinstrap] [Rhinitis Rx]
+2. [Barbed Suture] [Tonsillectomy]
+3. [RF turbinates] [Septoplasty]"
